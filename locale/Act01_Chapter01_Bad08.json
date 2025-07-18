@@ -1,0 +1,362 @@
+[
+  {
+    "id": "0101Bad08_Narrative001",
+    "description": "; 少し考える素振りを見せた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema001",
+    "description": "; > Ema: |#0101Bad08_Ema001|; うーん……どうしようかな。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry001",
+    "description": "; > Sherry: |#0101Bad08_Sherry001|; おや、何か気になるんですか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema002",
+    "description": "; > Ema: |#0101Bad08_Ema002|; うん。でも別に手がかりじゃないと思う、というか……。<br>そもそも、ボクの気のせいかもしれないし。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative002",
+    "description": "; 歯切れの悪いエマの返答に、シェリーは首を傾げた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry002",
+    "description": "; > Sherry: |#0101Bad08_Sherry002|; どういうことです？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema003",
+    "description": "; > Ema: |#0101Bad08_Ema003|; えっと、笑わないでね？<br>実はここに入ってからずっと――。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Leia001",
+    "description": "; > Leia: |#0101Bad08_Leia001|; エマくん、シェリーくん。<br>我々は他の場所を調べに行くよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Margo001",
+    "description": "; > Margo: |#0101Bad08_Margo001|; フフ、何か手がかりが見つけられるといいわね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema004",
+    "description": "; > Ema: |#0101Bad08_Ema004|; あ、う、うん、そうだね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative003",
+    "description": "; レイア、マーゴ、ミリアの３人が、<br>シャワールームを後にする。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative004",
+    "description": "; それからすぐ入れ替わるように、<br>ハンナが戻ってきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema005",
+    "description": "; > Ema: |#0101Bad08_Ema005|; ハンナちゃん、大丈夫……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna001",
+    "description": "; > Hanna: |#0101Bad08_Hanna001|; ……べっつに？ ぜんぜん平気ですわよ。<br>で、ここに何か手がかりはあったんですの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry003",
+    "description": "; > Sherry: |#0101Bad08_Sherry003|; 今のところは特に……。<br>でも、エマさんが何か気になることがあるそうで。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema006",
+    "description": "; > Ema: |#0101Bad08_Ema006|; あ、うん……。<br>だけど、ほんとに笑わないでね？ えっと……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative005",
+    "description": "; シェリーとハンナに念を押してから、<br>エマはおずおずと切り出した。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema007",
+    "description": "; > Ema: |#0101Bad08_Ema007|; ここに入ってからずっと、<br>誰かに見られてるような気がしない……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative006",
+    "description": "; ハンナとシェリーが、顔を見合わせる。<br>それからエマに向き直り、同時に首を横に振った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry004",
+    "description": "; > Sherry: |#0101Bad08_Sherry004|; うーん、私は感じませんね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna002",
+    "description": "; > Hanna: |#0101Bad08_Hanna002|; わたくしも、まったく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema008",
+    "description": "; > Ema: |#0101Bad08_Ema008|; そっか……。<br>やっぱり気のせいなのかな……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative007",
+    "description": "; ３人は誰からともなく、シャワールームを見渡す。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry005",
+    "description": "; > Sherry: |#0101Bad08_Sherry005|; もしや、どこかにカメラでも<br>仕掛けられているとか……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna003",
+    "description": "; > Hanna: |#0101Bad08_Hanna003|; げっ！？ もしそうだとしたら最低ですわっ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative008",
+    "description": "; シェリーとハンナが、あちこち念入りに探り始める。<br>エマも同じように辺りを調べていると――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative009",
+    "description": "; 少女の笑い声が響いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema009",
+    "description": "; > Ema: |#0101Bad08_Ema009|; え……！？ 何、今の声……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative010",
+    "description": "; 明らかに、シェリーとハンナではない。<br>声は、シャワー内に備え付けられた鏡の方から<br>聞こえたような気がした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative011",
+    "description": "; エマはおそるおそる、割れた鏡を<ruby=\"のぞ\">覗</ruby>き込む。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative012",
+    "description": "; ひび割れていた鏡に、さらに亀裂が走った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema010",
+    "description": "; > Ema: |#0101Bad08_Ema010|; ひっ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative013",
+    "description": "; 鏡の中から、誰かの両腕がエマめがけて伸びてくる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema011",
+    "description": "; > Ema: |#0101Bad08_Ema011|; （な、なに……！？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative014",
+    "description": "; 細く青白い腕が、エマの肩をがっちりと<ruby=\"つか\">掴</ruby>む。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative015",
+    "description": "; ――あなたなら波長が合うと思った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative016",
+    "description": "; <ruby=\"きれい\">綺麗</ruby>な桜色の髪……",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative017",
+    "description": "; ――ねえ、わたしにちょうだい？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema012",
+    "description": "; > Ema: |#0101Bad08_Ema012|; ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative018",
+    "description": "; そのままエマは声を上げる間すらなく、<br>鏡の中に引きずり込まれた――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna004",
+    "description": "; > Hanna: |#0101Bad08_Hanna004|; 今の音、なんですの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry006",
+    "description": "; > Sherry: |#0101Bad08_Sherry006|; エマさんが何か落としたんじゃないでしょうか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative019",
+    "description": "; ハンナとシェリーが、音のした方へ向かう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry007",
+    "description": "; > Sherry: |#0101Bad08_Sherry007|; エマさん？<br>……あれ、いませんね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna005",
+    "description": "; > Hanna: |#0101Bad08_Hanna005|; そこ、スマホが落ちてますわ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative020",
+    "description": "; ハンナが指さした先、タイルの上に<br>スマホが転がっていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry008",
+    "description": "; > Sherry: |#0101Bad08_Sherry008|; ふむ……。さっきの物音は、<br>これが落ちた時のものでしょうか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative021",
+    "description": "; 口にしながら、シェリーがスマホを拾い上げる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna006",
+    "description": "; > Hanna: |#0101Bad08_Hanna006|; それ、エマさんのなんですの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry009",
+    "description": "; > Sherry: |#0101Bad08_Sherry009|; あれ？ 電源が入りませんね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative022",
+    "description": "; 落ちた時に、壊れてしまったのかもしれない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna007",
+    "description": "; > Hanna: |#0101Bad08_Hanna007|; というか、エマさんはどこに消えたんですの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry010",
+    "description": "; > Sherry: |#0101Bad08_Sherry010|; 謎ですねえ。どこかに隠し扉があるとか……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema013",
+    "description": "; > Ema: |#0101Bad08_Ema013|; シェリーちゃん！ ハンナちゃん！<br>ボクはここだよ！ お願い気付いて！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative023",
+    "description": "; エマは【鏡の向こう側】にいる<br>シェリーとハンナに、大声で呼びかけた。<br>だが、エマの叫びは２人に届かない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema014",
+    "description": "; > Ema: |#0101Bad08_Ema014|; ど、どうなってるの……？<br>ここって、もしかして鏡の中の世界とか……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative024",
+    "description": "; シェリーとハンナは鏡の向こうのシャワールームで、<br>どこかに隠し扉はないかと探し回っている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative025",
+    "description": "; 彼女たちの背後に現れた人影を目にして、<br>エマは戸惑いの声を上げた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema015",
+    "description": "; > Ema: |#0101Bad08_Ema015|; う、嘘……なんで！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna008",
+    "description": "; > Hanna: |#0101Bad08_Hanna008|; あら、エマさん？<br>もう、どこに消えてたんですの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry011",
+    "description": "; > Sherry: |#0101Bad08_Sherry011|; 突然いなくなるから、<br>びっくりしちゃいましたよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_EmaFake001",
+    "description": "; > EmaFake: |#0101Bad08_EmaFake001|; ごめんごめん。<br>外で物音がした気がして、見に行ってたんだ。<br>でも、ボクの気のせいだったみたい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative026",
+    "description": "; エマの姿をした【なにか】が、<br>シェリー、ハンナと会話している。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema016",
+    "description": "; > Ema: |#0101Bad08_Ema016|; な、なんで……誰なの、あれ？<br>ボクはここにいるのに……！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_EmaFake002",
+    "description": "; > EmaFake: |#0101Bad08_EmaFake002|; そろそろ行こっか。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Hanna009",
+    "description": "; > Hanna: |#0101Bad08_Hanna009|; そうですわね。<br>ここにはもう、何もなさそうですし。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Sherry012",
+    "description": "; > Sherry: |#0101Bad08_Sherry012|; あ、そうだ。スマホが落ちてたんですけど、<br>これエマさんのじゃありませんか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative027",
+    "description": "; シェリーとハンナが、エマの姿をした【それ】と連れ立って<br>シャワールームを後にしようとする。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Ema017",
+    "description": "; > Ema: |#0101Bad08_Ema017|; ２人とも待って！ それはボクじゃない！<br>ボクはこっちだよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative028",
+    "description": "; エマの訴えもむなしく、３人は鏡の前から去っていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_Narrative029",
+    "description": "; 去り際に一度だけ、エマの姿をした【なにか】は<br>本物のエマがいる鏡を振り向いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad08_EmaFake003",
+    "description": "; > EmaFake: |#0101Bad08_EmaFake003|; ふふふ……。",
+    "translation": ""
+  }
+]

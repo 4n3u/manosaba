@@ -1,0 +1,402 @@
+[
+  {
+    "id": "0101Trial02_Sherry001",
+    "description": "; > @printDebate pos:70,50 roll:4 |#0101Trial02_Sherry001|; もう一度<br>現場に残された絵を<br>思い出してみてください。<br>立派な蝶の模様が<br>描かれていますよね？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry002",
+    "description": "; > @printDebate pos:70,50 roll:4 |#0101Trial02_Sherry002|; そしてマーゴさんの衣装には……<br>蝶があしらわれています。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Margo001",
+    "description": "; > @printDebate pos:30,50 roll:-4 |#0101Trial02_Margo001|; たしかに<br>用意された私の衣装には、<br>蝶をモチーフにした飾りが<br>ついているわね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry003",
+    "description": "; > @printDebate pos:70,50 roll:4 |#0101Trial02_Sherry003|; そう……<br>つまりあの絵は<br><link=\"Rebut1-1-2-1\"><style=\"Rebut\">ノアさん</style></link>が<link=\"Rebut1-1-2-2\"><style=\"Rebut\">死に際</style></link>、<br><link=\"Rebut1-1-2-3\"><style=\"Rebut\">犯人</style></link>であるマーゴさんを<br>告発したメッセージ<br>だったんですよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry004",
+    "description": "; > @printDebate pos:70,50 roll:4 |#0101Trial02_Sherry004|; 犯人は宝生マーゴさん！<br>あなたで決まりです！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Margo002",
+    "description": "; > @printDebate pos:30,50 roll:-4 |#0101Trial02_Margo002|; あら、そうだったのね。<br>知らなかったわ♪",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema001",
+    "description": "; > Ema: |#0101Trial02_Ema001|; （今のシェリーちゃんの話……<br>　本当に正しいのかな……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru001",
+    "description": "; > Meruru: |#0101Trial02_Meruru001|; ……エマさん。<br>シェリーさんはもしかすると、<br>【まだ知らない事】があるのかもしれません。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru002",
+    "description": "; > Meruru: |#0101Trial02_Meruru002|; もしそうなら……それを教えてあげると、<br>意見を改めてもらえるかもしれませんね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema002",
+    "description": "; > Ema: |#0101Trial02_Ema002|; うん……！<br>もう一度、見つけた物を確認してみるね……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Choice001",
+    "description": "; > @choice |#0101Trial02_Choice001| handler:Trial; 絵はノアの描いたものではない",
+    "translation": ""
+  },
+  {
+    "id": "~10e38ff5",
+    "description": "; > @choice |#~10e38ff5| handler:Trial; 戻る",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Choice002",
+    "description": "; > @choice |#0101Trial02_Choice002| handler:Trial; 絵が描かれたのは死に際ではない",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Choice003",
+    "description": "; > @choice |#0101Trial02_Choice003| handler:Trial; 絵は犯人を示した物ではない",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema003",
+    "description": "; > Ema: |#0101Trial02_Ema003|; ねえみんな。<br>あれって本当にノアちゃんが描いたのかな……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema004",
+    "description": "; > Ema: |#0101Trial02_Ema004|; あんな描き方、いくら魔法でも<br>不自然じゃないかと思うんだけど……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn001",
+    "description": "; > AnAn: |#0101Trial02_AnAn001|; 『ノアの魔法は本人の意思とは関係なく勝手に発動する』",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru003",
+    "description": "; > Meruru: |#0101Trial02_Meruru003|; あの出血量から考えると、<br>ノアさんの魔法以外であの絵を<br>描ききれるとは少し考えにくいですね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Leia001",
+    "description": "; > Leia: |#0101Trial02_Leia001|; つまり先ほどエマくん自身が証明したように、<br>あの蝶はノアくんが自分の魔法で描いた物と<br>考えるのが自然だね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Coco001",
+    "description": "; > Coco: |#0101Trial02_Coco001|; むしろ不自然なのはエマっちの反論じゃねーの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru004",
+    "description": "; > Meruru: |#0101Trial02_Meruru004|; で、でも、すでにわかってることでも、<br>再確認は必要かと思うんです……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Miria001",
+    "description": "; > Miria: |#0101Trial02_Miria001|; おじさんも、誰かを責めるのは良くないと思うな……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema005",
+    "description": "; > Ema: |#0101Trial02_Ema005|; （うぐっ……。<br>　みんなにフォローされちゃったぁ……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema006",
+    "description": "; > Ema: |#0101Trial02_Ema006|; （でもたしかにあの絵はノアちゃんの魔法で<br>　描かれた物で間違いない……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema007",
+    "description": "; > Ema: |#0101Trial02_Ema007|; （重要なのは、ノアちゃんが<br>　いつ何のために描いたのか……<br>　なのかな）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema008",
+    "description": "; > Ema: |#0101Trial02_Ema008|; （持っている情報をもう一度確認してみよう……！<br>　何かヒントがあるかも……！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema009",
+    "description": "; > Ema: |#0101Trial02_Ema009|; ……ちょっと待って！<br>その絵って、本当に事件の時に<br>描かれたのかな……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema010",
+    "description": "; > Ema: |#0101Trial02_Ema010|; もしかしたら、別の時間に描かれた絵かも……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry005",
+    "description": "; > Sherry: |#0101Trial02_Sherry005|; そこは問題ないと思います！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry006",
+    "description": "; > Sherry: |#0101Trial02_Sherry006|; 大量の血を使って描かれている以上、<br>これはノアさんが殺害された後に<br>描かれたものですね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry007",
+    "description": "; > Sherry: |#0101Trial02_Sherry007|; ……まあ厳密に言うなら、<br>【血が流れた後】でしょうか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry008",
+    "description": "; > Sherry: |#0101Trial02_Sherry008|; どちらにせよ【事件の後】なのは<br>変わりありませんね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Leia002",
+    "description": "; > Leia: |#0101Trial02_Leia002|; 血は時間が経ちすぎると固まってしまう。<br>少なくとも、ノアくんが死んでから<br>そんなに時間は経っていないタイミングだろうね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema011",
+    "description": "; > Ema: |#0101Trial02_Ema011|; ……あ。そ、そっか……。<br>そうだよね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru005",
+    "description": "; > Meruru: |#0101Trial02_Meruru005|; ……あ、あの……！<br>エマさんも、議論を進めようとしてくれているので、<br>あんまり責めないであげてください……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema012",
+    "description": "; > Ema: |#0101Trial02_Ema012|; （フォ、フォローされちゃった……！<br>　会議の流れを止めちゃったかも……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema013",
+    "description": "; > Ema: |#0101Trial02_Ema013|; （とにかく……あの絵が事件の直後に描かれたのは<br>　間違いないはずだよね）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema014",
+    "description": "; > Ema: |#0101Trial02_Ema014|; （問題はあの絵が何なのかだけど……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema015",
+    "description": "; > Ema: |#0101Trial02_Ema015|; （調査中に調べた物の中に、<br>　何かヒントになるものは<br>　なかったかな……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema016",
+    "description": "; > Ema: |#0101Trial02_Ema016|; （もう一度確認してみるのもいいかもしれない……！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema017",
+    "description": "; > Ema: |#0101Trial02_Ema017|; みんな、これを見て欲しいんだけど……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Miria002",
+    "description": "; > Miria: |#0101Trial02_Miria002|; それって……ノアちゃんの絵？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Hanna001",
+    "description": "; > Hanna: |#0101Trial02_Hanna001|; 死体現場に描かれていたのとそっくりですわ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry009",
+    "description": "; > Sherry: |#0101Trial02_Sherry009|; ほら！ やっぱりです！<br>この蝶はノアさんが描いた<br>ダイイングメッセージなんですよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema018",
+    "description": "; > Ema: |#0101Trial02_Ema018|; いや、実はこれは……<br>アンアンちゃんのスケッチブックに<br>描かれてた物なんだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry010",
+    "description": "; > Sherry: |#0101Trial02_Sherry010|; えーっ！？<br>そうなんですかアンアンさん！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn002",
+    "description": "; > AnAn: |#0101Trial02_AnAn002|; ……………そう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn003",
+    "description": "; > AnAn: |#0101Trial02_AnAn003|; 『ノアが勝手に描いてった』",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema019",
+    "description": "; > Ema: |#0101Trial02_Ema019|; 事件現場に残された蝶の絵は<br>たしかにノアちゃんが死に際、<br>魔法で描いたんだと思うけど……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema020",
+    "description": "; > Ema: |#0101Trial02_Ema020|; でもこのスケッチブックの蝶の絵は、<br>前から描かれてた物なんだよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema021",
+    "description": "; > Ema: |#0101Trial02_Ema021|; ……これって、本当にダイイングメッセージなのかな？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn004",
+    "description": "; > AnAn: |#0101Trial02_AnAn004|; ……………ちがう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn005",
+    "description": "; > AnAn: |#0101Trial02_AnAn005|; 『蝶はマーゴを示す絵ではない。<br>　わがはいが否定する』",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn006",
+    "description": "; > AnAn: |#0101Trial02_AnAn006|; 『わがはいはこの蝶の絵の意味について、<br>　ノアから事前に聞いている』",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_AnAn007",
+    "description": "; > AnAn: |#0101Trial02_AnAn007|; ……この絵はノアの死に関係はない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Meruru006",
+    "description": "; > Meruru: |#0101Trial02_Meruru006|; そういうことなら、<br>これがダイイングメッセージとは<br>少し考えにくいですね……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema022",
+    "description": "; > Ema: |#0101Trial02_Ema022|; 少なくとも、<br>これでマーゴちゃんを犯人と決めつけるのは、<br>早すぎるんじゃないかな……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry011",
+    "description": "; > Sherry: |#0101Trial02_Sherry011|; なるほど～。<br>……たしかにそう考えると<br>違うかもしれませんね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry012",
+    "description": "; > Sherry: |#0101Trial02_Sherry012|; それじゃあ、さっきの発言は撤回しちゃいます！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Leia003",
+    "description": "; > Leia: |#0101Trial02_Leia003|; ……簡単に自分の間違いを認めていいのかい？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Leia004",
+    "description": "; > Leia: |#0101Trial02_Leia004|; 見ようによっては、<br>マーゴくんを犯人に仕立て上げようとした<br>真犯人のようにも見えるよ？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Leia005",
+    "description": "; > Leia: |#0101Trial02_Leia005|; 自分が捕まらない為に……ね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry013",
+    "description": "; > Sherry: |#0101Trial02_Sherry013|; いいんですよぅ。<br>間違ってたのは納得しましたし！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry014",
+    "description": "; > Sherry: |#0101Trial02_Sherry014|; 私はその蝶の絵の情報を持っていませんでした。<br>新しい情報を手に入れたなら、<br>考えは変わるものですよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema023",
+    "description": "; > Ema: |#0101Trial02_Ema023|; （……そうだ。<br>　ボクは知ってるけど<br>　みんながまだ知らない情報もあるんだ）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Ema024",
+    "description": "; > Ema: |#0101Trial02_Ema024|; （知らないなら正しい推理なんてできない……！<br>　だから正しい情報を共有して、<br>　みんなの間違いを訂正していくんだ！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Nanoka001",
+    "description": "; > Nanoka: |#0101Trial02_Nanoka001|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Coco002",
+    "description": "; > Coco: |#0101Trial02_Coco002|; ……でもさあ。<br>じゃあなんでこんな絵、描いたん？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Coco003",
+    "description": "; > Coco: |#0101Trial02_Coco003|; いくら天才画家だろうと、<br>きっかけぐらいあんじゃね？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Alisa001",
+    "description": "; > Alisa: |#0101Trial02_Alisa001|; 芸術家の頭の中なんて、<br>バカには理解できねーだろ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Coco004",
+    "description": "; > Coco: |#0101Trial02_Coco004|; ああん！？<br>今あてぃしがバカって言ったか！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Alisa002",
+    "description": "; > Alisa: |#0101Trial02_Alisa002|; そうは言ってねーだろ……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Alisa003",
+    "description": "; > Alisa: |#0101Trial02_Alisa003|; ……凡人のウチらが考えるだけ<br>無駄だって言ったんだよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Alisa004",
+    "description": "; > Alisa: |#0101Trial02_Alisa004|; たとえば……<br>思いついたもんをその場で描いちまっただけの<br>可能性もあるだろ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Miria003",
+    "description": "; > Miria: |#0101Trial02_Miria003|; ……あ、でもその可能性は<br>本当にありそうだよね……。<br>ほら、部屋の中って白一色だったでしょ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Miria004",
+    "description": "; > Miria: |#0101Trial02_Miria004|; なんかキャンバスっぽいなぁって……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Margo003",
+    "description": "; > Margo: |#0101Trial02_Margo003|; つまりダイイングメッセージのように<br>自分の死体を使った作品を遺した……<br>文字通り【遺作】というわけね……♪",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Margo004",
+    "description": "; > Margo: |#0101Trial02_Margo004|; でももしかすると……<br>本当にそれが真相なのかもしれないわ？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Sherry015",
+    "description": "; > Sherry: |#0101Trial02_Sherry015|; どういうことですか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial02_Margo005",
+    "description": "; > Margo: |#0101Trial02_Margo005|; ノアちゃんの死は<br>【自殺だったかもしれない】……<br>そういうことよ。",
+    "translation": ""
+  }
+]

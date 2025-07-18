@@ -1,0 +1,1222 @@
+[
+  {
+    "id": "0101Adv04_Ema001",
+    "description": "; > Ema: |#0101Adv04_Ema001|; うわぁ……広い。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative001",
+    "description": "; エマたちが捕らえられていた牢屋は、<br>地下にあったらしい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative002",
+    "description": "; 長い階段を上っていくと、<ruby=\"ごうしゃ\">豪奢</ruby>な洋館のような、<br>ひろびろとした玄関ホールに出た。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative003",
+    "description": "; いくつもの扉や、長く伸びる通路は先が見えない。<br>上階へと続く大階段は、首が痛くなるほど天井が高い。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative004",
+    "description": "; あちこちが老朽化しており、不気味な雰囲気を<ruby=\"かも\">醸</ruby>しているが、<br>この建物がとても大きいというのがわかる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative005",
+    "description": "; 近くの部屋に看守が入っていったので、<br>エマもそこへと入った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative006",
+    "description": "; どうやらラウンジのようだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative007",
+    "description": "; 寒々しく圧迫感のある地下とうってかわり、<br>ラウンジは、毒々しさを<ruby=\"はら\">孕</ruby>む華美な空間だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative008",
+    "description": "; 高い天井に据え付けられたシャンデリア。<br>床には古びた<ruby=\"じゅうたん\">絨毯</ruby>。ソファや暖炉もある。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative009",
+    "description": "; 飾られているものがやたらと趣味が悪く、<br>エマが特に注視したものは――",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema002",
+    "description": "; > Ema: |#0101Adv04_Ema002|; これって本物……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative010",
+    "description": "; 壁に大きなボウガンが飾ってあることだった。<br>エマはその存在感に、ぞくりと背筋を凍らせる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative011",
+    "description": "; 通路に繋がる入口前には<br>見張るように、黒衣の看守が立っていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative012",
+    "description": "; 入口が塞がれたということは、<br>全員がラウンジに入ったらしい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative013",
+    "description": "; 広いラウンジ内に集められた少女たちは、<br>１３人もいた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown001",
+    "description": "; > Unknown: |#0101Adv04_Unknown001|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative014",
+    "description": "; 部屋の隅で亀のようにうずくまっている<br>いかにもコミュ障少女もいれば。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown002",
+    "description": "; > Unknown: |#0101Adv04_Unknown002|; ふんふふ～ん♪",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative015",
+    "description": "; 鼻歌を歌いながら、<br>勝手に室内の配置を変えている自由きままな少女もいる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown003",
+    "description": "; > Unknown: |#0101Adv04_Unknown003|; っざけんじゃねえぞ！ ぶっ殺してやる！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative016",
+    "description": "; 無意味にキレ散らかしている<br>マスクのヤンキー少女もいる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown004",
+    "description": "; > Unknown: |#0101Adv04_Unknown004|; ここくさくね？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative017",
+    "description": "; 嫌悪感を露わに、鼻をつまんでいる猫耳少女や、",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown005",
+    "description": "; > Unknown: |#0101Adv04_Unknown005|; ……やれやれ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative018",
+    "description": "; アンニュイなため息を漏らす露出度が高い少女や、",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown006",
+    "description": "; > Unknown: |#0101Adv04_Unknown006|; ウフフ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative019",
+    "description": "; 傍観者めいて笑っている<ruby=\"ようえん\">妖艶</ruby>な少女もいた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative020",
+    "description": "; 壁際で全員を観察している人物はもうひとり。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown007",
+    "description": "; > Unknown: |#0101Adv04_Unknown007|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative021",
+    "description": "; ――とても、とても、暗い瞳をした少女。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative022",
+    "description": "; 彼女のもっとも注目すべき点は<br>本物か定かではないが、大きな銃を背負っていることだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown008",
+    "description": "; > Unknown: |#0101Adv04_Unknown008|; いやぁ～すごいですねっ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative023",
+    "description": "; そんな中、水色髪の少女が大きな声をあげた。<br>場にそぐわないほど明るく、楽しそうな笑顔だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown009",
+    "description": "; > Unknown: |#0101Adv04_Unknown009|; 突然牢屋で目覚め！ 化け物に見張られていて！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown010",
+    "description": "; > Unknown: |#0101Adv04_Unknown010|; なんかすごいことが起こっているのを感じます！<br>高まっちゃいますよね～！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema003",
+    "description": "; > Ema: |#0101Adv04_Ema003|; え、う、うん……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative024",
+    "description": "; 水色髪の少女は好奇心で瞳を輝かせながら、<br>エマの両手を握ってきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative025",
+    "description": "; そして上下にぶんぶんと強く振る。<br>握力が強いのか、エマは痛そうに眉を下げた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown011",
+    "description": "; > Unknown: |#0101Adv04_Unknown011|; なあにが、高まっちゃいますよね～、ですわ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown012",
+    "description": "; > Unknown: |#0101Adv04_Unknown012|; やべーことになってるんですわ！<br>もっと危機感を持った方が良いんじゃないかしら！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative026",
+    "description": "; 口を挟んできた少女の声は、<br>先ほど牢屋にいた時に聞いたかん高い声だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative027",
+    "description": "; お人形のように可愛らしい小柄な少女だが、<br>どこか口調が不自然だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative028",
+    "description": "; 室内には、多くの少女たちがいる。<br>その中の誰かが、くすっと笑い声を漏らした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative029",
+    "description": "; 途端、小柄な少女の頬が<br>かぁっと真っ赤に染まっていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown013",
+    "description": "; > Unknown: |#0101Adv04_Unknown013|; 今笑ったのは誰でやがりますの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown014",
+    "description": "; > Unknown: |#0101Adv04_Unknown014|; ――いや、すまない。<br>少し変わった喋り方だなと思ってね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative030",
+    "description": "; 一歩前に出てきたのは、<br>中性的な見た目の少女。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative031",
+    "description": "; すらりと背が高く、<br>まるで騎士のような<ruby=\"りり\">凛々</ruby>しさがある。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative032",
+    "description": "; その<ruby=\"せいかん\">精悍</ruby>な<ruby=\"ふうぼう\">風貌</ruby>に華を添えるが<ruby=\"ごと\">如</ruby>く、<br>レイピアを腰に<ruby=\"たずさ\">携</ruby>えていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative033",
+    "description": "; 彼女のカリスマ性によるものなのか、<br>全員が息を呑み、彼女から目が離せない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Unknown015",
+    "description": "; > Unknown: |#0101Adv04_Unknown015|; みんな初対面だと思うから、<br>良かったら自己紹介をしていかないか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia001",
+    "description": "; > Leia: |#0101Adv04_Leia001|; 先に名乗らせてもらうよ。<br>私の名前は<ruby=\"はすみ\">蓮見</ruby>レイア。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna001",
+    "description": "; > Hanna: |#0101Adv04_Hanna001|; ……ふんっ、<ruby=\"とおの\">遠野</ruby>ハンナですわ。<br>お見知りおきあそばっ……お見知りおきあそばせせ？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna002",
+    "description": "; > Hanna: |#0101Adv04_Hanna002|; ちょっとお先によろしいかしら？<br>あなた、レイアさんと言ったわね。<br>いきなり人のことを笑うのは失礼じゃなくて？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia002",
+    "description": "; > Leia: |#0101Adv04_Leia002|; す、すまない。そんなに気にしてるなんて思わなかったんだ。<br>お手柔らかに頼むよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna003",
+    "description": "; > Hanna: |#0101Adv04_Hanna003|; きっ、気にしてないし……っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia003",
+    "description": "; > Leia: |#0101Adv04_Leia003|; その話し方は、ご両親に教わったのかい？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna004",
+    "description": "; > Hanna: |#0101Adv04_Hanna004|; もう突っ込まないでいいから！<br>ほっとけ～～っ！！ ですわ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative034",
+    "description": "; 拳をふるふると震わせており、<br>彼女のプライドがひどく傷つけられたのが<ruby=\"うかが\">窺</ruby>える。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative035",
+    "description": "; 滑り出しからひりついたムードになってしまったが、<br>空気を読めない少女が元気よく手を挙げた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry001",
+    "description": "; > Sherry: |#0101Adv04_Sherry001|; はいはーい！ 私は<ruby=\"たちばな\">橘</ruby>シェリーっていいますっ。<br>事件があるところに私あり！<br>この名探偵にお任せください！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna005",
+    "description": "; > Hanna: |#0101Adv04_Hanna005|; 名探偵ぃ？？ あなたが？？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry002",
+    "description": "; > Sherry: |#0101Adv04_Sherry002|; そうですよ！ えっへん！<br>何せミステリマニアですからね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia004",
+    "description": "; > Leia: |#0101Adv04_Leia004|; 実際に何か事件を解決した経験があるのかい？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry003",
+    "description": "; > Sherry: |#0101Adv04_Sherry003|; それはまだありませんね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia005",
+    "description": "; > Leia: |#0101Adv04_Leia005|; ……そ、そうかい。少し頭が痛くなってきたな……。<br>次に行こうか。キミの名前を教えてくれないか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative036",
+    "description": "; エマは<ruby=\"うなが\">促</ruby>されて、ハッと姿勢を正す。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema004",
+    "description": "; > Ema: |#0101Adv04_Ema004|; （さ、最初が肝心……！<br>　自己紹介でボクの第一印象が決まるんだから、気合……！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema005",
+    "description": "; > Ema: |#0101Adv04_Ema005|; ボ、ボクは、桜羽エマ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative037",
+    "description": "; 名乗ったと同時、<br>エマの<ruby=\"かたわ\">傍</ruby>らにひとりの少女が駆け寄ってきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru001",
+    "description": "; > Meruru: |#0101Adv04_Meruru001|; わわわ、私の名前は、ひっ、ひっ、ひ……<br><ruby=\"ひかみ\">氷上</ruby>、メルル、です……っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru002",
+    "description": "; > Meruru: |#0101Adv04_Meruru002|; そ、それで、エマさん、<br>あ、あの、あのあのあの……っ<br>けっ、けっ、けっ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema006",
+    "description": "; > Ema: |#0101Adv04_Ema006|; え、えーと、なんだろう？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru003",
+    "description": "; > Meruru: |#0101Adv04_Meruru003|; 怪我、しちゃってます……っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative038",
+    "description": "; つっかえつっかえになりながら、<br>メルルはようやく言い切った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative039",
+    "description": "; エマは自身の膝を見下ろし、<br>血が<ruby=\"にじ\">滲</ruby>んで流れていることに気付く。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema007",
+    "description": "; > Ema: |#0101Adv04_Ema007|; （さっき、ヒロちゃんに突き飛ばされた時か……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema008",
+    "description": "; > Ema: |#0101Adv04_Ema008|; 大したことないよ、大丈夫！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru004",
+    "description": "; > Meruru: |#0101Adv04_Meruru004|; 大したこと、あります…っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative040",
+    "description": "; メルルは今にも泣き出しそうになりながら、膝立ちになった。<br>そして、エマの膝に手を当てる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative041",
+    "description": "; ――すると、エマにとって驚くべきことが起きた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema009",
+    "description": "; > Ema: |#0101Adv04_Ema009|; え……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative042",
+    "description": "; メルルの手先が光り、<br>エマの膝の傷口が、みるみると<ruby=\"ふさ\">塞</ruby>がっていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative043",
+    "description": "; この場の全員が測り合うように観察しあっている状態で、<br>メルルの不思議な力に注目が集まる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru005",
+    "description": "; > Meruru: |#0101Adv04_Meruru005|; 痛くないですか？ 大丈夫ですか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema010",
+    "description": "; > Ema: |#0101Adv04_Ema010|; あ、ありがとう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative044",
+    "description": "; メルルは、エマと目を合わさず、<br>もじもじと<ruby=\"うつむ\">俯</ruby>いている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative045",
+    "description": "; レイアが場を仕切り直すように、咳払いをした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia006",
+    "description": "; > Leia: |#0101Adv04_Leia006|; ……その不思議な力について詳しく聞きたいところだけど、<br>まだ他の子も残っているよね。<br>お互いの自己紹介を優先しようか。次、キミ、いいかな？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Coco001",
+    "description": "; > Coco: |#0101Adv04_Coco001|; あー、あてぃし？<br>あてぃしの名前は<ruby=\"さわたり\">沢渡</ruby>ココね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Coco002",
+    "description": "; > Coco: |#0101Adv04_Coco002|; んで、あんさぁ、ちょっといい？<br>あてぃし、あんたのことテレビで見たことある気がして。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative046",
+    "description": "; ココと名乗った少女は、<br>レイアに歩み寄り、間近から<ruby=\"ぶえんりょ\">無遠慮</ruby>な視線を向ける。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry004",
+    "description": "; > Sherry: |#0101Adv04_Sherry004|; あっ、それ、私も思いました！<br>有名人の方でしょうか！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema011",
+    "description": "; > Ema: |#0101Adv04_Ema011|; 言われてみれば……ボクも見たような。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema012",
+    "description": "; > Ema: |#0101Adv04_Ema012|; （舞台やテレビや映画でも活躍してる女優さんで……<br>　すごく恰好良い子だなぁって……まさか、本人？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia007",
+    "description": "; > Leia: |#0101Adv04_Leia007|; 芸能事務所に所属しているからね。色々活動はしているよ。<br>舞台が一番多いけど、テレビもよく出るかな。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry005",
+    "description": "; > Sherry: |#0101Adv04_Sherry005|; やっぱりー！ すごい、生芸能人、初めて見ましたっっ<br>サインください！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Coco003",
+    "description": "; > Coco: |#0101Adv04_Coco003|; ちょ、ウゼーなおめえ！ あてぃしが先に見つけたっつの！<br>あてぃし配信しててさ、とりあえずコラボして！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia008",
+    "description": "; > Leia: |#0101Adv04_Leia008|; はは、今は自己紹介の途中だし、その話は後でまた。<br>キミたち、次いいかな？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative047",
+    "description": "; レイアは慣れているのか軽く受け流し、<br>まだ自己紹介していない少女らを<ruby=\"うなが\">促</ruby>す。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Miria001",
+    "description": "; > Miria: |#0101Adv04_Miria001|; ええと……やりづらいな……<ruby=\"さえき\">佐伯</ruby>ミリアだよ～？<br>よろしくね～、あはは～……はぁ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Margo001",
+    "description": "; > Margo: |#0101Adv04_Margo001|; 私は<ruby=\"ほうしょう\">宝生</ruby>マーゴよ。<br>可愛い子がいっぱいで、舌なめずりしちゃいそう。ウフフ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Alisa001",
+    "description": "; > Alisa: |#0101Adv04_Alisa001|; チッ……<ruby=\"しとう\">紫藤</ruby>アリサ。<br>おめーらと慣れ合うつもりはねーから。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative048",
+    "description": "; アリサと名乗った少女は、<br>マスクをしていて顔がはっきりわからない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry006",
+    "description": "; > Sherry: |#0101Adv04_Sherry006|; アリサさん、ですよね。<br>どうしてマスクを？ 顔を見られるとマズいんですか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Alisa002",
+    "description": "; > Alisa: |#0101Adv04_Alisa002|; うっせえな。おめえに関係ねーだろ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry007",
+    "description": "; > Sherry: |#0101Adv04_Sherry007|; えぇー、とっても気になります！<br>名探偵の血が騒ぐんです！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Alisa003",
+    "description": "; > Alisa: |#0101Adv04_Alisa003|; それ以上絡みやがったら殴るぞてめえ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia009",
+    "description": "; > Leia: |#0101Adv04_Leia009|; キミたち、<ruby=\"いさか\">諍</ruby>いはよそう！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia010",
+    "description": "; > Leia: |#0101Adv04_Leia010|; シェリーくんに苛立つ気持ちはわかるが、<br>まずはお互いのことを知らないと。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry008",
+    "description": "; > Sherry: |#0101Adv04_Sherry008|; 私のことさりげなくディスってません？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia011",
+    "description": "; > Leia: |#0101Adv04_Leia011|; そんなことはないさ。少し黙っててほしいとは思うけれど。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry009",
+    "description": "; > Sherry: |#0101Adv04_Sherry009|; てへっ☆ りょーかいしましたー。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia012",
+    "description": "; > Leia: |#0101Adv04_Leia012|; ええと、あと、残っているのは……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative049",
+    "description": "; 壁隅で亀のように丸まっていた少女が、<br>さっとスケッチブックを取り出した。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative050",
+    "description": "; 口が聞けないのか、それとも別の理由があるのか、<br>スケッチブックに書いた字を見せる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_AnAn001",
+    "description": "; > AnAn: |#0101Adv04_AnAn001|; 『わがはいは<ruby=\"なつめ\">夏目</ruby>アンアンである。<br>　以降、どうか話しかけないでいただきたい』",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Nanoka001",
+    "description": "; > Nanoka: |#0101Adv04_Nanoka001|; ……<ruby=\"くろべ\">黒部</ruby>ナノカ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro001",
+    "description": "; > Hiro: |#0101Adv04_Hiro001|; 私の名前は<ruby=\"にかいどう\">二階堂</ruby>ヒロだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema013",
+    "description": "; > Ema: |#0101Adv04_Ema013|; （ヒロちゃん……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative051",
+    "description": "; 全員の自己紹介が終わったかと思ったが、<br>ひとり、まるで輪に加わっていない少女がいた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative052",
+    "description": "; 先ほどから勝手に室内の配置換えをしたり、<br><ruby=\"ぶっしょく\">物色</ruby>をしている少女だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia013",
+    "description": "; > Leia: |#0101Adv04_Leia013|; キミ、キミだけまだ名乗っていないんだが。<br>名前を教えてくれないか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Noah001",
+    "description": "; > Noah: |#0101Adv04_Noah001|; ん～？ なまえ？ のあはのあだよ？<br>んーと、<ruby=\"じょうがさき\">城ケ崎</ruby>ノア。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative053",
+    "description": "; ノアと名乗った少女は、<br>すぐにまた室内の<ruby=\"ぶっしょく\">物色</ruby>へと戻っていった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia014",
+    "description": "; > Leia: |#0101Adv04_Leia014|; 全員の名前が知れて何よりだよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia015",
+    "description": "; > Leia: |#0101Adv04_Leia015|; ここにいる意味は、私にもわからない。<br>けれど、冷静に行動するべきだと思っている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Leia016",
+    "description": "; > Leia: |#0101Adv04_Leia016|; とにかく騒がず、<br>落ち着いて説明を待とうじゃないか。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative054",
+    "description": "; レイアが言い放った直後だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative055",
+    "description": "; 天井付近にある<ruby=\"つうきこう\">通気口</ruby>から化け物フクロウが飛んできて、<br>少女たちの視線が集う。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden001",
+    "description": "; > Warden: |#0101Adv04_Warden001|; あっ……人がいっぱい……。<br>えっと、改めまして……この屋敷で管理を任されている<br>かわいいフクロウ、ゴクチョーと申します……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema014",
+    "description": "; > Ema: |#0101Adv04_Ema014|; （このフクロウ、さっきモニターで見た……！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden002",
+    "description": "; > Warden: |#0101Adv04_Warden002|; ……定時とかもあるので……<br>さっさと説明をしていきますね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden003",
+    "description": "; > Warden: |#0101Adv04_Warden003|; あっと……すごく申し上げにくいんですが……<br>皆さんは【魔女】になる因子を持っています。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative056",
+    "description": "; ざわ、と不穏な空気がひろがる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema015",
+    "description": "; > Ema: |#0101Adv04_Ema015|; （魔女……？ 魔女って、なに……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative057",
+    "description": "; エマは困惑したように頭を振る。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative058",
+    "description": "; 彼女たちにとって、<br>魔女とは、アニメや漫画に登場する架空の存在。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative059",
+    "description": "; それが現実に存在すると知らされ、<br>受け入れきれていない様子だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden004",
+    "description": "; > Warden: |#0101Adv04_Warden004|; エラい人が決めた話では【魔女】はこの国にとって、<br>災厄をもたらす悪らしいんです。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden005",
+    "description": "; > Warden: |#0101Adv04_Warden005|; わが国の法に基づいた全国検査によって、<br>皆さんはその因子が大きく検出された存在。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden006",
+    "description": "; > Warden: |#0101Adv04_Warden006|; この国にとってあまりに危険であると判断され、<br>この牢屋敷への収容が決まったんですね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden007",
+    "description": "; > Warden: |#0101Adv04_Warden007|; いずれ【魔女】になる可能性があるとなると、<br>野放しにはできませんので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden008",
+    "description": "; > Warden: |#0101Adv04_Warden008|; つまり皆さん、この世界に害をなす<br>悪者ってことで……ご納得ください。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Coco004",
+    "description": "; > Coco: |#0101Adv04_Coco004|; はぁっ！？ なんなんお前キモ！！<br>そんな検査やった覚えないんですけどぉ～？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden009",
+    "description": "; > Warden: |#0101Adv04_Warden009|; 私に文句言われましても……<br>私はただのかわいいフクロウなので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden010",
+    "description": "; > Warden: |#0101Adv04_Warden010|; 皆さんにはこの春から<br>囚人として生活してもらいます。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden011",
+    "description": "; > Warden: |#0101Adv04_Warden011|; 救済がなくもないのですが……<br>【大魔女】さえ見つかれば皆さんの呪いを……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden012",
+    "description": "; > Warden: |#0101Adv04_Warden012|; あ、でも、期待とか持たせても良くないですよね……。<br>忘れてください。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden013",
+    "description": "; > Warden: |#0101Adv04_Warden013|; シャワーも娯楽室もあるので、<br>ここで余生を楽しく過ごすとか……どうですかね？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema016",
+    "description": "; > Ema: |#0101Adv04_Ema016|; （囚人……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative060",
+    "description": "; 理解が追いつかない様子のエマは、<br><ruby=\"どうき\">動悸</ruby>を抑え込むように、手で胸を押さえた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden014",
+    "description": "; > Warden: |#0101Adv04_Warden014|; あっ、ちなみに看守はかつてここに収容された者が<br>魔女になってしまった姿です。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden015",
+    "description": "; > Warden: |#0101Adv04_Warden015|; 【なれはて】と呼ばれています。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden016",
+    "description": "; > Warden: |#0101Adv04_Warden016|; 多くの魔女になった者は処刑されますが、<br>与しやすい者を、マインドコントロールしてます。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden017",
+    "description": "; > Warden: |#0101Adv04_Warden017|; 逆らったら殺すように洗脳してしまったので……<br>ほんとすみません、逆らったら死んでください。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative061",
+    "description": "; 出入口を見張る黒衣の化け物に、<br>少女たちの視線が集う。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative062",
+    "description": "; かつて、人間だった者。<br>そして、魔女になってしまった、なれのはて。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative063",
+    "description": "; 少女たちの表情がもの語っている。<br>――やすやすと信じられるわけがない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative064",
+    "description": "; 重々しい沈黙の中、<br>最初に一歩前に出たのは、二階堂ヒロだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative065",
+    "description": "; 清楚な少女は、<ruby=\"りん\">凛</ruby>とした声をあげる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro002",
+    "description": "; > Hiro: |#0101Adv04_Hiro002|; 間違いです。<br>私は悪ではない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative066",
+    "description": "; 絶対的な自信を持っているのか、<br>ヒロの声には一切の迷いがない。そして、",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro003",
+    "description": "; > Hiro: |#0101Adv04_Hiro003|; この国に災厄をもたらす<br>危険因子はこの子の方だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative067",
+    "description": "; びしり、と、エマを指さしてきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema017",
+    "description": "; > Ema: |#0101Adv04_Ema017|; ……っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative068",
+    "description": "; そばにいたメルルが、そっとエマの二の腕に触れた。<br>目を合わせこそしないものの、本気で心配しているようだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Meruru006",
+    "description": "; > Meruru: |#0101Adv04_Meruru006|; エマさん……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative069",
+    "description": "; メルルの優しさに、エマは<ruby=\"ほほえ\">微笑</ruby>みを浮かべた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema018",
+    "description": "; > Ema: |#0101Adv04_Ema018|; えへへ、へーきへーき。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative070",
+    "description": "; ヒロの訴えに、<br>ゴクチョーは心底面倒そうなため息をつく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden018",
+    "description": "; > Warden: |#0101Adv04_Warden018|; はぁ～～……、あの、頼みます。悪者を受け入れてください。<br>私は残業したくないですし<br>みんな平和に楽しくがいいので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro004",
+    "description": "; > Hiro: |#0101Adv04_Hiro004|; 間違っている。私は悪じゃない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative071",
+    "description": "; ヒロは迷いなく歩き出した。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro005",
+    "description": "; > Hiro: |#0101Adv04_Hiro005|; この世界を正すことができるのは、私だけだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro006",
+    "description": "; > Hiro: |#0101Adv04_Hiro006|; 私はこの世の悪を排す。<br>まずは――。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative072",
+    "description": "; ヒロは暖炉脇に立てかけられていた、<br>火かき棒を手に取った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative073",
+    "description": "; その濁った瞳は、エマを真っすぐに見据えていた。<br>エマは<ruby=\"おび\">怯</ruby>えた表情となって、後ずさっていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema019",
+    "description": "; > Ema: |#0101Adv04_Ema019|; （まさか、違うよね……？<br>　嫌ってるからって、さすがに殺そうとなんて）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative074",
+    "description": "; ヒロが凶器を手に取ったことで、<br>少女たちの間に緊迫した空気が張りつめる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro007",
+    "description": "; > Hiro: |#0101Adv04_Hiro007|; 貴様だ！ 化け物！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative075",
+    "description": "; ――ダッ、と、ヒロが地を蹴った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative076",
+    "description": "; <ruby=\"かば\">庇</ruby>うようにメルルがエマを抱きしめる。<br>エマはぎゅっと目を<ruby=\"つむ\">瞑</ruby>った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative077",
+    "description": "; しかし、凶器は、エマに振り下ろされなかった。<br>エマがおそるおそる目を開けてみれば。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative078",
+    "description": "; ヒロの殺意は、看守へと向けられていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema020",
+    "description": "; > Ema: |#0101Adv04_Ema020|; （ああそうだ、ヒロちゃんは……そういう子だった）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative079",
+    "description": "; この場で、確定して【間違っているもの】は、<br>魔女の【なれはて】として、化け物の姿を<ruby=\"かたど\">象</ruby>っている看守だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative080",
+    "description": "; そして、二階堂ヒロは【間違っているもの】を<br>この世界から消すことを、自身の使命と課している。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hiro008",
+    "description": "; > Hiro: |#0101Adv04_Hiro008|; 悪は死ね！ 死ね死ね死ね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative081",
+    "description": "; ヒロは何度も何度も火かき棒を振り下ろしていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative082",
+    "description": "; 血や肉がびしゃびしゃと飛び散り、<br>みるみる顔が赤く染まっていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative083",
+    "description": "; 看守の体は<ruby=\"めちゃくちゃ\">滅茶苦茶</ruby>に崩れていく。<br>普通の人間なら、一撃で死に至るほどの残虐な攻撃。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative084",
+    "description": "; それに一切の<ruby=\"しゅんじゅん\">逡巡</ruby>もなく、<br>ヒロは看守を徹底的に潰していく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative085",
+    "description": "; あまりに壮絶な光景に、<br>全員がただ見ていることしかできなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative086",
+    "description": "; 重い火かき棒を軽々と振り回して<ruby=\"なお\">尚</ruby>、<br>彼女は素早く動きまわる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative087",
+    "description": "; ――それでも。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative088",
+    "description": "; 看守はどれだけ攻撃されても、死んでいなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative089",
+    "description": "; 明らかに人外の素早さと力により、<br><ruby=\"せつな\">刹那</ruby>で反撃に振られた鎌は、",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative090",
+    "description": "; ――ヒロの首を、<ruby=\"は\">刎</ruby>ね飛ばした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative091",
+    "description": "; ヒロの首は、<br>エマの目の前に落ちてきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema021",
+    "description": "; > Ema: |#0101Adv04_Ema021|; え……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative092",
+    "description": "; 残された胴体は、まだ火かき棒を固く握りしめ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative093",
+    "description": "; しばらくふらふらと<ruby=\"さまよ\">彷徨</ruby> ってから、<br>ドサッと倒れる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Hanna006",
+    "description": "; > Hanna: |#0101Adv04_Hanna006|; キャアアアーッ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative094",
+    "description": "; ヒロの生首は、<br>目を見開き、驚いたような顔をしていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative095",
+    "description": "; エマに<ruby=\"けんお\">嫌悪</ruby>の<ruby=\"まなざ\">眼差</ruby>しを向けていた眼は、<br>もはや光を失っていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema022",
+    "description": "; > Ema: |#0101Adv04_Ema022|; ヒロちゃん……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema023",
+    "description": "; > Ema: |#0101Adv04_Ema023|; （また友だちになれるって……やり直せるって思った、のに）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative096",
+    "description": "; 二階堂ヒロは、死んでいた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative097",
+    "description": "; エマは<ruby=\"ぼうぜん\">呆然</ruby>としたまま、<br>ふらふらとヒロの首へと近付き、手を伸ばす。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative098",
+    "description": "; その血に濡れた<ruby=\"ほお\">頬</ruby>へと触れる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema024",
+    "description": "; > Ema: |#0101Adv04_Ema024|; ウソだよね、ヒロちゃん……？<br>やだ、やだ、やだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative099",
+    "description": "; エマの瞳にみるみる涙が<ruby=\"あふ\">溢</ruby>れ、<br>ぽろぽろと<ruby=\"ほお\">頬</ruby>を伝っていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative100",
+    "description": "; 視界の端、切り離された胴体の近くに、<br>きらりと光るものがあることに気付く。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative101",
+    "description": "; どうやらヒロが倒れた拍子に、<br>ポケットからこぼれ落ちた物らしい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative102",
+    "description": "; 手の届く範囲にあったそれを、<br>エマは<ruby=\"とっさ\">咄嗟</ruby>に拾い上げた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema025",
+    "description": "; > Ema: |#0101Adv04_Ema025|; （これ……って）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative103",
+    "description": "; エマの手の中にあるのは、<br>万年筆だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative104",
+    "description": "; それはエマにとっても、大切な――。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema026",
+    "description": "; > Ema: |#0101Adv04_Ema026|; （ヒロちゃん……もう、手離さないよ）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative105",
+    "description": "; エマは万年筆を、自身のポケットにしまった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden019",
+    "description": "; > Warden: |#0101Adv04_Warden019|; うわ～……死んじゃいましたね……<br>掃除しなきゃ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden020",
+    "description": "; > Warden: |#0101Adv04_Warden020|; ああでも魔女はこんなことじゃ死なないので、<br>彼女は魔女じゃないと証明されたことになりますね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden021",
+    "description": "; > Warden: |#0101Adv04_Warden021|; やれやれ……良かったですね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema027",
+    "description": "; > Ema: |#0101Adv04_Ema027|; （良かった……？<br>　ヒロちゃんは死んだのに、そんなわけ……！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative106",
+    "description": "; エマは涙を拭い、<br>ゴクチョーを強く<ruby=\"にら\">睨</ruby>む。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative107",
+    "description": "; その瞳を意に介さず、<br>ゴクチョーは<ruby=\"しゅくしゅく\">粛々</ruby>と語り続ける。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden022",
+    "description": "; > Warden: |#0101Adv04_Warden022|; ――あっ、あと何個もすみません。<br>最後に。みなさんに、<br>もっとも大切なことを伝えておきます。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden023",
+    "description": "; > Warden: |#0101Adv04_Warden023|; 魔女になりつつある者は、<br>抑えきれない殺意や妄想に衝かれてしまいます。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden024",
+    "description": "; > Warden: |#0101Adv04_Warden024|; 面倒なことに、いずれ囚人間で<br>殺人事件が起こるんですよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Sherry010",
+    "description": "; > Sherry: |#0101Adv04_Sherry010|; 殺人事件っ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative108",
+    "description": "; シェリーはこの状況下で、<br>不謹慎に目を輝かせた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden025",
+    "description": "; > Warden: |#0101Adv04_Warden025|; そうなんですよ……毎度のことなんですよねぇ……<br>さすがにそんな危険人物とは一緒に生活できませんよねぇ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden026",
+    "description": "; > Warden: |#0101Adv04_Warden026|; というわけで殺人事件が起こり次第、<br>【魔女裁判】を開廷します。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden027",
+    "description": "; > Warden: |#0101Adv04_Warden027|; 【魔女】になった囚人は……あのー……<br>……処刑しますので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Warden028",
+    "description": "; > Warden: |#0101Adv04_Warden028|; 詳しくは【魔女図鑑】をご覧ください。<br>では私はこれにて……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative109",
+    "description": "; ゴクチョーが羽ばたき、<br><ruby=\"つうきこう\">通気口</ruby>の中へと姿を消していく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative110",
+    "description": "; エマは自身の手を見下ろす。<br>ヒロの血で、両の手のひらは真っ赤に染まっていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Yuki001",
+    "description": "; > @print |#0101Adv04_Yuki001| speed:0.05 waitInput! wait!; ――よくできましたね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative111",
+    "description": "; 聞こえた声に驚いたエマは、<br>確かめるように周囲を見渡す。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative112",
+    "description": "; 当然、エマの<ruby=\"そば\">傍</ruby>には誰もいない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Ema028",
+    "description": "; > Ema: |#0101Adv04_Ema028|; （そうだよね、いるわけなんか、ない……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative113",
+    "description": "; こうして、エマたちの獄中生活がはじまった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv04_Narrative114",
+    "description": "; 足元から音もなく崩れ始めているような、<br>不気味な感覚と共に。",
+    "translation": ""
+  }
+]

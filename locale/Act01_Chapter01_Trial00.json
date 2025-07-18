@@ -1,0 +1,122 @@
+[
+  {
+    "id": "0101Trial00_Leia001",
+    "description": "; > Leia: |#0101Trial00_Leia001|; さて、まずは何から話すべきかな。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Sherry001",
+    "description": "; > Sherry: |#0101Trial00_Sherry001|; それはもちろん、犯人を示す明確な証拠からですよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Alisa001",
+    "description": "; > Alisa: |#0101Trial00_Alisa001|; んなもんあったら苦労してねぇよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Sherry002",
+    "description": "; > Sherry: |#0101Trial00_Sherry002|; ふっふっふー。それがあるって言ったらどうします？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Alisa002",
+    "description": "; > Alisa: |#0101Trial00_Alisa002|; ……死体に犯人の名前でも書いてあるってのか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Coco001",
+    "description": "; > Coco: |#0101Trial00_Coco001|; ていうかそんなのあったらみんな見つけてるし！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Miria001",
+    "description": "; > Miria: |#0101Trial00_Miria001|; まあまあ。<br>とにかくシェリーちゃんの話を<br>聞いてみようよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Miria002",
+    "description": "; > Miria: |#0101Trial00_Miria002|; どうせ何から話していいのか<br>わからないんだし……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Leia002",
+    "description": "; > Leia: |#0101Trial00_Leia002|; ああ、それじゃあ聞かせてくれシェリーくん。<br>キミの見つけた証拠について。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Sherry003",
+    "description": "; > Sherry: |#0101Trial00_Sherry003|; ええ！ お任せください！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Ema001",
+    "description": "; > Ema: |#0101Trial00_Ema001|; （これから議論が本格的に始まるんだ……。<br>　みんなの話をちゃんと聞かないと……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Ema002",
+    "description": "; > Ema: |#0101Trial00_Ema002|; （でもいったい、何を話したらいいんだろう……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru001",
+    "description": "; > Meruru: |#0101Trial00_Meruru001|; ……あっ、あの、エマさん。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Ema003",
+    "description": "; > Ema: |#0101Trial00_Ema003|; あっ……何？<br>メルルちゃん。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru002",
+    "description": "; > Meruru: |#0101Trial00_Meruru002|; たぶん、ここからみんなで【議論】を<br>することになると思うんですが……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru003",
+    "description": "; > Meruru: |#0101Trial00_Meruru003|; みんなが話す内容で……<br>【気になるところ】が<br>出てくると思うんです。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru004",
+    "description": "; > Meruru: |#0101Trial00_Meruru004|; そんなところがあったら……<br>【指摘】できるかどうか<br>考えてみてください。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru005",
+    "description": "; > Meruru: |#0101Trial00_Meruru005|; 間違っている意見には<br>反論することができるはずです。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru006",
+    "description": "; > Meruru: |#0101Trial00_Meruru006|; 私も何か変なことを<br>言ってしまうかもしれませんし……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru007",
+    "description": "; > Meruru: |#0101Trial00_Meruru007|; 皆さんも、何か勘違いしていることが<br>あるかもしれません。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru008",
+    "description": "; > Meruru: |#0101Trial00_Meruru008|; エマさんならきっと、<br>みんなの議論を正しい方向に<br>導けると思うんです……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Meruru009",
+    "description": "; > Meruru: |#0101Trial00_Meruru009|; ……なんとなく、ですけど。",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Ema004",
+    "description": "; > Ema: |#0101Trial00_Ema004|; メルルちゃん……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Trial00_Ema005",
+    "description": "; > Ema: |#0101Trial00_Ema005|; （メルルちゃんの言う通り、何か気になる事があったら<br>　勇気を出して指摘してみよう……！）",
+    "translation": ""
+  }
+]

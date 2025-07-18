@@ -1,0 +1,382 @@
+[
+  {
+    "id": "0101Adv24_Narrative001",
+    "description": "; ラウンジに集った少女たちは、１１人。<br>誰もが、どこか気まずそうに目を合わさないようにしている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative002",
+    "description": "; そんな中、エマの隣に立ったのは、<br>シェリーとメルルの２人だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Sherry001",
+    "description": "; > Sherry: |#0101Adv24_Sherry001|; エマさん、大丈夫ですか？<br>今にも倒れそうですけど……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Meruru001",
+    "description": "; > Meruru: |#0101Adv24_Meruru001|; ソ、ソファーに座った方が……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative003",
+    "description": "; この状況下で心配してくれる彼女らに、<br>エマはなんとか笑顔を作る。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema001",
+    "description": "; > Ema: |#0101Adv24_Ema001|; 大丈夫だよ。ショックなのは、<br>みんなきっとおんなじだろうし……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Sherry002",
+    "description": "; > Sherry: |#0101Adv24_Sherry002|; 犯人以外は。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema002",
+    "description": "; > Ema: |#0101Adv24_Ema002|; ……っ",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema003",
+    "description": "; > Ema: |#0101Adv24_Ema003|; （……この中に、ノアちゃんを殺した犯人がいる？<br>　そんな、まさか）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative004",
+    "description": "; エマの視線は、<br>ラウンジにいる全員の様子を<ruby=\"うかが\">窺</ruby>うように<ruby=\"さまよ\">彷徨</ruby>う。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative005",
+    "description": "; 誰もが青ざめ、<br>信じられないといった表情だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema004",
+    "description": "; > Ema: |#0101Adv24_Ema004|; 犯人なんて、いるわけないよ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative006",
+    "description": "; エマの<ruby=\"つぶや\">呟</ruby>きは、どこか<ruby=\"くうきょ\">空虚</ruby>に響いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative007",
+    "description": "; そこで、天井近くからの羽ばたき音とともに、<br>ゴクチョーが現れる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden001",
+    "description": "; > Warden: |#0101Adv24_Warden001|; はぁ……殺人事件……<br>起きちゃいましたね……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden002",
+    "description": "; > Warden: |#0101Adv24_Warden002|; 今夜、【魔女裁判】を開廷します。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden003",
+    "description": "; > Warden: |#0101Adv24_Warden003|; 今いる囚人の中から必ず殺人犯を特定してください。<br>その者は、【魔女】として処刑するので。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden004",
+    "description": "; > Warden: |#0101Adv24_Warden004|; やすやすと死なない魔女の活動を<br>確実に沈黙させる方法での処刑です。<br>かなり酷いこととか……しちゃうので。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden005",
+    "description": "; > Warden: |#0101Adv24_Warden005|; また、囚人全員への告知ですが、<br>特定ができなかった場合は、全員処刑とします。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative008",
+    "description": "; 簡単に言ってきたあまりにおぞましい宣言に、<br>少女たちはざわついた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden006",
+    "description": "; > Warden: |#0101Adv24_Warden006|; 私としても仕事が増えるんで避けたいんですが、<br>もともと皆さんは、<br>危険人物として捕らえられているので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden007",
+    "description": "; > Warden: |#0101Adv24_Warden007|; ただ……<ruby=\"あるじ\">主</ruby>が、いや……<br>まぁこの牢屋敷側の気持ちとしては、<br>そんなのはあまりにかわいそうだと思っているんですよ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden008",
+    "description": "; > Warden: |#0101Adv24_Warden008|; だから投票で確実に<br>【魔女】を選んでもらって、<br>【魔女】だけを排除しましょう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden009",
+    "description": "; > Warden: |#0101Adv24_Warden009|; 全員処刑措置は、<br>あくまで【魔女】を選出できなかった場合にだけ<br>適用します。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden010",
+    "description": "; > Warden: |#0101Adv24_Warden010|; がんばって犯人を特定してくださいね……<br>犯人を見つければ、生き残れるので……<br>まあ、あの、前向きに楽しんでください。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden011",
+    "description": "; > Warden: |#0101Adv24_Warden011|; あ、あと捜査中に不正がされないように<br>みだりに遺体に触れたりしないでください。<br>現場はそのまま保持しておいてくださいね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden012",
+    "description": "; > Warden: |#0101Adv24_Warden012|; では捜査をお願いします。<br>あっ！ どうせ難しいので、無理はしないでくださいね……。<br>わからなくても皆さんが死ぬだけなので……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Warden013",
+    "description": "; > Warden: |#0101Adv24_Warden013|; 期限は魔女裁判開廷のアナウンスが入るまでです。<br>業務中なら万が一気が向けば質問も答えますね……たぶん。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative009",
+    "description": "; 一方的な話を終え、<br>ゴクチョーは去っていった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative010",
+    "description": "; 裁判にて、誰かを選ばなければいけない。<br>エマは全身の血の気が引いたようだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema005",
+    "description": "; > Ema: |#0101Adv24_Ema005|; （今日中に犯人を特定しなきゃ、全員処刑……？<br>　そんな、時間がなさすぎる！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema006",
+    "description": "; > Ema: |#0101Adv24_Ema006|; （いやそれよりも、<br>　この中の誰かが殺人を犯してるなんて、信じたくない！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema007",
+    "description": "; > Ema: |#0101Adv24_Ema007|; （でも、誰かがノアちゃんを殺したんだ……。<br>　ひどすぎる……許せない……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative011",
+    "description": "; ラウンジ内に、気まずい沈黙が落ちていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative012",
+    "description": "; 少女たちは、お互いの腹を探り合うように<br>誰もが視線を<ruby=\"さまよ\">彷徨</ruby>わせている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative013",
+    "description": "; 数日間、共同生活をしてきた少女たち。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative014",
+    "description": "; マーゴが言っていたように、<br>お互いのことをほとんど知らない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative015",
+    "description": "; その中で信じ合うことは、<br>とても、とても難しい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative016",
+    "description": "; やがてレイアが室内の中央に立つ。<br>全員の注目は、レイアへと集まった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia001",
+    "description": "; > Leia: |#0101Adv24_Leia001|; こんな事態になってしまい、本当に辛いと思うが……<br>私は、犯人を特定したいと思う。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Margo001",
+    "description": "; > Margo: |#0101Adv24_Margo001|; 賛成よ。<br>私もいわれない理由で選ばれて死にたくないもの。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Margo002",
+    "description": "; > Margo: |#0101Adv24_Margo002|; 殺人事件の犯人を、<br>きちんと【魔女】として裁いてもらうべきだと思うわ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia002",
+    "description": "; > Leia: |#0101Adv24_Leia002|; ああ、みんな同じ気持ちだと思う。<br>時間はあまりない。手分けして捜査をはじめよう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative017",
+    "description": "; 出入口に向かって歩きだす、<br>レイアとマーゴの２人。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative018",
+    "description": "; 慌てたのはエマだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema008",
+    "description": "; > Ema: |#0101Adv24_Ema008|; ま、待ってレイアちゃん！<br>誰が犯人かわかったら、それでその子を処刑させるの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative019",
+    "description": "; レイアはエマの横をすれ違っていく。<br>その表情は、辛そうに<ruby=\"ゆが\">歪</ruby>んでいた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia003",
+    "description": "; > Leia: |#0101Adv24_Leia003|; みんなを助けるためだ。<br>疑わしい人物も、目星がついている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema009",
+    "description": "; > Ema: |#0101Adv24_Ema009|; え……！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative020",
+    "description": "; レイアの言葉に、<br>エマは衝撃で立ち尽くす。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative021",
+    "description": "; レイアの眼差しは、<br>ハンナへと向けられていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia004",
+    "description": "; > Leia: |#0101Adv24_Leia004|; 遠野ハンナ。<br>――キミが、城ケ崎ノアを殺したんじゃないか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Hanna001",
+    "description": "; > Hanna: |#0101Adv24_Hanna001|; なっ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia005",
+    "description": "; > Leia: |#0101Adv24_Leia005|; まだしっかり調べていないが、<br>あの現場は足跡が残っていなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia006",
+    "description": "; > Leia: |#0101Adv24_Leia006|; つまり……浮ける魔法を持つ者が<br>犯行に及んだんじゃないか？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema010",
+    "description": "; > Ema: |#0101Adv24_Ema010|; ハンナちゃんが犯人なわけない！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Leia007",
+    "description": "; > Leia: |#0101Adv24_Leia007|; ……そう思うなら、キミたちも捜査を進めたまえ。<br>今夜には全てがはっきりする。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative022",
+    "description": "; 立ち去るレイアの表情は険しかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema011",
+    "description": "; > Ema: |#0101Adv24_Ema011|; （みんなを助けたかったら、誰かを魔女にしなくちゃいけない……<br>　だからレイアちゃんは、シビアになってるんだ……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema012",
+    "description": "; > Ema: |#0101Adv24_Ema012|; （わかるけど、でも、ハンナちゃんを疑うなんて！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative023",
+    "description": "; ココ、ナノカ、アリサも<br>それぞれが勝手にラウンジを出ていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative024",
+    "description": "; ソファーに座っているアンアンの隣には、<br>メルルが心配そうに寄り添っている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Meruru002",
+    "description": "; > Meruru: |#0101Adv24_Meruru002|; あの、私アンアンさんを医務室に連れていきます。<br>アンアンさんは、とても捜査なんてできる状態じゃ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative025",
+    "description": "; ノアの死体を最初に見たアンアンは、<br>ショックが大きいのか青ざめて震えていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema013",
+    "description": "; > Ema: |#0101Adv24_Ema013|; そうだね……お願いできると助かる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative026",
+    "description": "; メルルに支えられ、アンアンたちも出ていった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative027",
+    "description": "; 残されたのは、エマとシェリー、<br>そしてハンナの３人だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative028",
+    "description": "; ハンナは唇を噛み、<ruby=\"うつむ\">俯</ruby>いていた。<br>よっぽど悔しいのか、涙目になっている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema014",
+    "description": "; > Ema: |#0101Adv24_Ema014|; ハンナちゃん……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Sherry003",
+    "description": "; > Sherry: |#0101Adv24_Sherry003|; 探偵の出番ですねっ！<br>真犯人を見つけて、ハンナさんの疑いを晴らしましょう！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative029",
+    "description": "; シェリーが明るく言い放ったことで、<br>エマはほっと表情を緩ませた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema015",
+    "description": "; > Ema: |#0101Adv24_Ema015|; そ、そうだよ。ハンナちゃんは犯人じゃない。<br>処刑なんて、絶対させない！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Ema016",
+    "description": "; > Ema: |#0101Adv24_Ema016|; ボクたちで、真犯人を探そう！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Hanna002",
+    "description": "; > Hanna: |#0101Adv24_Hanna002|; ……そうね、絶対に犯人を見つけましょう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative030",
+    "description": "; 泣きそうになっているハンナが、<br>ようやく顔を上げてくれた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv24_Narrative031",
+    "description": "; エマたちは勢いづき、<br>城ケ崎ノア殺人事件の捜査へと乗り出すこととなった。",
+    "translation": ""
+  }
+]

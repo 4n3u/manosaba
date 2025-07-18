@@ -1,0 +1,417 @@
+[
+  {
+    "id": "0101Bad02_Narrative001",
+    "description": "; 看守とアリサの後を追った。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative002",
+    "description": "; マップで、通路の先が懲罰房だと確認する。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema001",
+    "description": "; > Ema: |#0101Bad02_Ema001|; （アリサちゃんは何か、<br>　規則を破ったのかもしれない）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema002",
+    "description": "; > Ema: |#0101Bad02_Ema002|; （出てやるって言ってたし……<br>　脱走しようとして、捕まったのかも）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema003",
+    "description": "; > Ema: |#0101Bad02_Ema003|; （懲罰房って……<br>　やっぱり、ひどいことされるのかな）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative003",
+    "description": "; もしかしたら、ヒロのように――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative004",
+    "description": "; 血に染まったラウンジを思い出して、<br>エマは身を震わせる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema004",
+    "description": "; > Ema: |#0101Bad02_Ema004|; （大丈夫だよね……<br>　アリサちゃん、暴れたりはしてなかったし）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema005",
+    "description": "; > Ema: |#0101Bad02_Ema005|; きっと、殺されはしないはず。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative005",
+    "description": "; エマは自分に言い聞かせるように<ruby=\"つぶや\">呟</ruby>いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema006",
+    "description": "; > Ema: |#0101Bad02_Ema006|; （ここが懲罰房……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative006",
+    "description": "; 南京錠で閉ざされた重厚な扉が、ずらりと並んでいた。<br>囚人の房よりも、一段と空気が<ruby=\"よど\">澱</ruby>んでいる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative007",
+    "description": "; 通路にはエマ以外、誰の姿もなかった。<br>アリサはすでにもう、扉の向こうに<br>入れられてしまったのかもしれない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema007",
+    "description": "; > Ema: |#0101Bad02_Ema007|; アリサちゃん……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative008",
+    "description": "; か細く震える声で、エマはアリサの名前を呼んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative009",
+    "description": "; たとえどこかにアリサがいたとしても、<br>届くような声量じゃない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative010",
+    "description": "; 当然、返事はなかったが――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema008",
+    "description": "; > Ema: |#0101Bad02_Ema008|; ひっ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative011",
+    "description": "; エマのすぐ目の前にある懲罰房の扉が、<br>激しい音を立てて開かれた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative012",
+    "description": "; 中から誰か出てくるのかと、エマは身構える。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema009",
+    "description": "; > Ema: |#0101Bad02_Ema009|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative013",
+    "description": "; だが、しばらく経っても誰かが<br>出てくるような気配はない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema010",
+    "description": "; > Ema: |#0101Bad02_Ema010|; ……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative014",
+    "description": "; 不審に思ったエマは扉に近付き、<br>おそるおそるといった風に室内を<ruby=\"のぞ\">覗</ruby>いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema011",
+    "description": "; > Ema: |#0101Bad02_Ema011|; ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative015",
+    "description": "; 上げそうになった声を押し殺すため、<br>エマは手で口を塞いだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative016",
+    "description": "; 懲罰房の中にある禍々しい道具類に戦慄し、後ずさる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema012",
+    "description": "; > Ema: |#0101Bad02_Ema012|; え？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative017",
+    "description": "; 背後から押されて、エマは懲罰房の中に転がった。<br>振り向いた視線の先で、扉が閉まっていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema013",
+    "description": "; > Ema: |#0101Bad02_Ema013|; ま、待って！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative018",
+    "description": "; 慌てて起き上がったエマの眼前で、<br>懲罰房の扉は重々しく閉ざされた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema014",
+    "description": "; > Ema: |#0101Bad02_Ema014|; 開けてよ！ なんでボクを閉じ込めるの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative019",
+    "description": "; エマの叫びに、答えは返ってこない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative020",
+    "description": "; 『閉じ込められた』という状況が、<br>エマの脳裏に嫌な思い出を呼び起こしていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative021",
+    "description": "; 中学時代、トイレの個室や体育倉庫に閉じ込められて――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative022",
+    "description": "; トイレでは、上から水やゴミをかけられていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative023",
+    "description": "; 体育倉庫では、何時間も外に出してもらえなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative024",
+    "description": "; 悪意に満ちた嘲笑は、<br>今でもエマの耳にこびりついて離れない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative025",
+    "description": "; やめて。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative026",
+    "description": "; やめてやめてやめてやめてやめて！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema015",
+    "description": "; > Ema: |#0101Bad02_Ema015|; 開けて！ どうしてこんなことするんだよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative027",
+    "description": "; エマがいくら叫んでも、<br>扉が開かれることはなかった――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative028",
+    "description": "; エマは懲罰房の床に力なく横たわっていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema016",
+    "description": "; > Ema: |#0101Bad02_Ema016|; （……どのくらい経ったのかな）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative029",
+    "description": "; 閉じ込められてから、どれだけ時間が<br>流れたのだろうかと考える。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative030",
+    "description": "; スマホは何故かこの懲罰房では電源が入らず、<br>使用できなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema017",
+    "description": "; > Ema: |#0101Bad02_Ema017|; ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative031",
+    "description": "; 扉の向こうで足音が聞こえた気がした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative032",
+    "description": "; エマは力を振り絞って立ち上がり、<br>扉に<ruby=\"すが\">縋</ruby>りつくようにして耳をそばだてる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Hanna001",
+    "description": "; > ボイス加工：ドア越しの声; > Hanna: |#0101Bad02_Hanna001|\n; なんなんですのここ……<br>やけに空気が重苦しくありません？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Sherry001",
+    "description": "; > ボイス加工：ドア越しの声; > Sherry: |#0101Bad02_Sherry001|\n; そうですか？ 私は特に感じませんけど。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema018",
+    "description": "; > Ema: |#0101Bad02_Ema018|; （ハンナちゃん、シェリーちゃん！）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative033",
+    "description": "; 絶望感に囚われていたエマに、一筋の光が差し込んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema019",
+    "description": "; > Ema: |#0101Bad02_Ema019|; 助けて！ お願い！ ここから出して！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative034",
+    "description": "; 扉にある<ruby=\"のぞ\">覗</ruby>き窓から、エマは必死に叫ぶ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema020",
+    "description": "; > Ema: |#0101Bad02_Ema020|; ハンナちゃん！ シェリーちゃん！ ここだよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative035",
+    "description": "; すると声に気がついたのか、<br>２人はエマがいる房に歩み寄ってくる。<br>そして、シェリーが中を<ruby=\"のぞ\">覗</ruby>き込んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema021",
+    "description": "; > Ema: |#0101Bad02_Ema021|; シェリーちゃん！ よかったぁ……！<br>よくわからないけどボク、閉じ込められちゃって……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative036",
+    "description": "; エマは違和感を覚えて、言葉を止めた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Sherry002",
+    "description": "; > ボイス加工：ドア越しの声; > Sherry: |#0101Bad02_Sherry002|\n; う～～～～ん……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative037",
+    "description": "; シェリーは間違いなく室内を<ruby=\"のぞ\">覗</ruby>き込んでいる。<br>ところが、その目はまるで<br>エマの存在に気付いていないかのようだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema022",
+    "description": "; > Ema: |#0101Bad02_Ema022|; なん……で……？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Hanna002",
+    "description": "; > ボイス加工：ドア越しの声; > Hanna: |#0101Bad02_Hanna002|\n; どうしましたの？<br>もしや、中に誰かいるとか……！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Sherry003",
+    "description": "; > ボイス加工：ドア越しの声; > Sherry: |#0101Bad02_Sherry003|\n; いいえ、誰もいませんねぇ～。<br>なんとも、えぐい道具はありますけど。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative038",
+    "description": "; シェリーとハンナは扉から離れて、<br>そのまま立ち去っていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema023",
+    "description": "; > Ema: |#0101Bad02_Ema023|; そんな……待ってよ！<br>シェリーちゃん！ ハンナちゃん！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema024",
+    "description": "; > Ema: |#0101Bad02_Ema024|; 見えてるでしょ！？ 聞こえてるでしょ！？<br>ボクはここにいるんだよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema025",
+    "description": "; > Ema: |#0101Bad02_Ema025|; なんで……どうして……？<br>あんなのまるで……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative039",
+    "description": "; 無視されているみたいだった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema026",
+    "description": "; > Ema: |#0101Bad02_Ema026|; ここに……いるのに……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative040",
+    "description": "; エマは頭の奥で、少女たちの声を聞いた。<br>こちらを<ruby=\"おとし\">貶</ruby>めるかのような笑い声が、頭の中で反響する。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema027",
+    "description": "; > Ema: |#0101Bad02_Ema027|; うるさい……<br>うるさいうるさいうるさいうるさいうるさい！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative041",
+    "description": "; 笑い声はやがて、エマを責め立てる言葉に変わっていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema028",
+    "description": "; > Ema: |#0101Bad02_Ema028|; やめてよ！ ボクは悪くない……ボクはっ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative042",
+    "description": "; エマは手近にあった拷問器具を手に取り、<br>懲罰房の扉を何度も<ruby=\"たた\">叩</ruby>いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema029",
+    "description": "; > Ema: |#0101Bad02_Ema029|; あぁぁぁぁぁっ！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative043",
+    "description": "; 不意に、エマは理解した。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative044",
+    "description": "; 自分はみんなに、世界に嫌われている。<br>こんなにも嫌われるような自分はきっと――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative045",
+    "description": "; 死んだほうがいい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema030",
+    "description": "; > Ema: |#0101Bad02_Ema030|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative046",
+    "description": "; 手にした拷問器具をじっと見つめて、<br>エマは笑みを浮かべた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Narrative047",
+    "description": "; 先の鋭く<ruby=\"とが\">尖</ruby>った、鉄の棒――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad02_Ema031",
+    "description": "; > Ema: |#0101Bad02_Ema031|; ちょうどいいや。",
+    "translation": ""
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": "0101Adv10_Sherry001",
+    "description": "; > Sherry: |#0101Adv10_Sherry001|; エマさーん、エマさーん、<br>朝ですよ～？ 起きてくださーい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema001",
+    "description": "; > Ema: |#0101Adv10_Ema001|; うう……ん……。<br>あとちょっと……って、わあああっ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative001",
+    "description": "; 薄く目を開いたエマの眼前に、シェリーの顔があり。<br>エマはギョッとし、叫んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative002",
+    "description": "; それからきょろきょろと周囲に視線を巡らせる。<br>牢屋の中だ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema002",
+    "description": "; > Ema: |#0101Adv10_Ema002|; （やっぱり夢じゃなかったんだ……<br>　ボク、ここに捕まっちゃったんだ）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry002",
+    "description": "; > Sherry: |#0101Adv10_Sherry002|; 朝食の後の自由時間が長いので、<br>牢屋敷を探索しようと思ってるんです。一緒に行きません？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema003",
+    "description": "; > Ema: |#0101Adv10_Ema003|; ……うん、そうだね。<br>顔洗うからちょっと待ってて。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative003",
+    "description": "; エマは急いで顔を洗い、<br>シェリーと共に房を出た。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema004",
+    "description": "; > Ema: |#0101Adv10_Ema004|; （そういえば隣は……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Noah001",
+    "description": "; > Noah: |#0101Adv10_Noah001|; ふんふふ～ん♪",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema005",
+    "description": "; > Ema: |#0101Adv10_Ema005|; （相変わらず、お絵描きしてる……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema006",
+    "description": "; > Ema: |#0101Adv10_Ema006|; （アンアンちゃんはいないみたい……<br>　あのあと大丈夫だったのかな）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative004",
+    "description": "; 房内のノアの絵は、また<ruby=\"さまが\">様変</ruby>わりしていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative005",
+    "description": "; スプレーアートは<ruby=\"ちみつ\">緻密</ruby>に描きこまれ、<br>カラフルに<ruby=\"いろど\">彩</ruby>られている。<br>とてもひと晩で描かれたものには見えない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema007",
+    "description": "; > Ema: |#0101Adv10_Ema007|; すごい……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry003",
+    "description": "; > Sherry: |#0101Adv10_Sherry003|; バルーン……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative006",
+    "description": "; ぽつりとシェリーが<ruby=\"つぶや\">呟</ruby>いた言葉で、<br>エマは首を<ruby=\"かし\">傾</ruby>げる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema008",
+    "description": "; > Ema: |#0101Adv10_Ema008|; バルーン？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry004",
+    "description": "; > Sherry: |#0101Adv10_Sherry004|; エマさん、知りませんか？<br>世界的に有名なストリートアーティストですよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry005",
+    "description": "; > Sherry: |#0101Adv10_Sherry005|; 正体不明でその姿を見た人もいないって<br>噂だったんですけど……まさかのノアさんだったんですね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry006",
+    "description": "; > Sherry: |#0101Adv10_Sherry006|; すごいすごいすご～い！<br>ノアさん、サインください！！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative007",
+    "description": "; 呼びかけにノアが振り返ってきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Noah002",
+    "description": "; > Noah: |#0101Adv10_Noah002|; さいん？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry007",
+    "description": "; > Sherry: |#0101Adv10_Sherry007|; ノアさん、【バルーン】なんですよね！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Noah003",
+    "description": "; > Noah: |#0101Adv10_Noah003|; ん？ ああ～そうだよ～？<br>へへ～照れるな～。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema009",
+    "description": "; > Ema: |#0101Adv10_Ema009|; （世界的に有名なアーティストって……本当に？<br>　ただちょっと変わった子だとばかり……）",
+    "translation": ""
+  },
+  {
+    "id": "~2ceda2f7",
+    "description": "; > @toast \"|#~2ceda2f7|\"; 魔女図鑑 更新…",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema010",
+    "description": "; > Ema: |#0101Adv10_Ema010|; そんな有名人が捕まってるなんて……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema011",
+    "description": "; > Ema: |#0101Adv10_Ema011|; ね、ねえ、ここに連れてこられたのって<br>絶対騒ぎになってるよね！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema012",
+    "description": "; > Ema: |#0101Adv10_Ema012|; そういえばレイアちゃんも芸能人だし、世間が黙ってないよ！<br>きっと警察がボクらのこと捜してる！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative008",
+    "description": "; 縋るようにエマは口にしたが、<br>シェリーにはピンと来なかったのか、首を捻る。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry008",
+    "description": "; > Sherry: |#0101Adv10_Sherry008|; どうでしょう？<br>この牢屋敷は国家ぐるみな気がします。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry009",
+    "description": "; > Sherry: |#0101Adv10_Sherry009|; ゴクチョーさんが言ってましたよね。<br>全国で行われた検査に引っかかったって。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry010",
+    "description": "; > Sherry: |#0101Adv10_Sherry010|; そうなると、警察が動くような事態には<br>なっていないのでは。むしろ協力した側かも。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry011",
+    "description": "; > Sherry: |#0101Adv10_Sherry011|; もしかしたら私たち、<br>死亡扱いになってるかもしれませんね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Narrative009",
+    "description": "; なんでもないことのように、<br>シェリーが爽やかな笑顔で言い放つ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema013",
+    "description": "; > Ema: |#0101Adv10_Ema013|; そんな……そんなのおかしい！<br>このままにしちゃダメだよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema014",
+    "description": "; > Ema: |#0101Adv10_Ema014|; ヒロちゃんが殺されたこと、ちゃんと外の人に知らせないと！<br>救助を呼ぼうよ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry012",
+    "description": "; > Sherry: |#0101Adv10_Sherry012|; ふむ。それもまたありな展開ですか。<br>脱獄するってことですね？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema015",
+    "description": "; > Ema: |#0101Adv10_Ema015|; 脱獄……う、うん。<br>ボクらは間違ってここに連れてこられた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema016",
+    "description": "; > Ema: |#0101Adv10_Ema016|; だからまずは、脱獄を考えよう……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema017",
+    "description": "; > Ema: |#0101Adv10_Ema017|; （ああでも……昨日脱走したアリサちゃんは、<br>　あっさり看守に捕まってたっけ……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema018",
+    "description": "; > Ema: |#0101Adv10_Ema018|; 看守って何人もいるのかな？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry013",
+    "description": "; > Sherry: |#0101Adv10_Sherry013|; 今のところ確認できたのはひとりですね。<br>看守の目を盗めば、<br>なんとかなりそうな気もします。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Ema019",
+    "description": "; > Ema: |#0101Adv10_Ema019|; ボクらはまだここのことを知らなすぎるし、<br>色々見回って良い脱獄方法がないか探そう！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv10_Sherry014",
+    "description": "; > Sherry: |#0101Adv10_Sherry014|; 承知しました！",
+    "translation": ""
+  }
+]

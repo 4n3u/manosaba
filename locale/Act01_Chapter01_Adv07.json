@@ -1,0 +1,282 @@
+[
+  {
+    "id": "0101Adv07_Narrative001",
+    "description": "; スマホの通知音が、室内に響いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative002",
+    "description": "; まどろんでいたエマはがばりと頭を上げ、<br>急いでスマホを確認した。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative003",
+    "description": "; 内容はゴクチョーからの通知だった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative004",
+    "description": "; 『皆さん、夕食の時間です。<br>　速やかに食堂へ集合してください』",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative005",
+    "description": "; 並ぶ牢屋が、一斉に開錠されていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema001",
+    "description": "; > Ema: |#0101Adv07_Ema001|; 夕食……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema002",
+    "description": "; > Ema: |#0101Adv07_Ema002|; （そういえば起きてから何も食べてない……。<br>　お腹は空いてる……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema003",
+    "description": "; > Ema: |#0101Adv07_Ema003|; （こんな生活受け入れたくないけど……<br>　食べないと考えがまとまらない）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative006",
+    "description": "; エマはため息をつき、立ち上がった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema004",
+    "description": "; > Ema: |#0101Adv07_Ema004|; 食堂ってどこだろ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative007",
+    "description": "; エマは【魔女図鑑】のマップを思い出し、<br>スマホを開いた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema005",
+    "description": "; > Ema: |#0101Adv07_Ema005|; あ、あったあった、食堂は……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative008",
+    "description": "; マップを頼りに歩きだそうとした足は、<br>すぐに止まってしまう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative009",
+    "description": "; 隣の房に誰かが残っている気配がし、<br>気になったエマは中を覗き込んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema006",
+    "description": "; > Ema: |#0101Adv07_Ema006|; （城ケ崎、ノアちゃん……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Noah001",
+    "description": "; > Noah: |#0101Adv07_Noah001|; ふんふふ～ん♪",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative010",
+    "description": "; ノアはぺたりと地面に座り込み、<br>熱心に何かをしている様子だった。エマには背中を向けている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema007",
+    "description": "; > Ema: |#0101Adv07_Ema007|; あの、あのさ、ごはんだけど行かないの？",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative011",
+    "description": "; <ruby=\"てつごうし\">鉄格子</ruby>越しに、エマが声をかけた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative012",
+    "description": "; くるんと、ノアは顔を振り向かせた。<br>手にはカラースプレーを持っている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Noah002",
+    "description": "; > Noah: |#0101Adv07_Noah002|; のあは今日、ごはん食べないんだよ？<br>まだお絵描きの途中だから。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema008",
+    "description": "; > Ema: |#0101Adv07_Ema008|; （この子、捕まってる自覚あるのかな？<br>　なんかやたら呑気だけど……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema009",
+    "description": "; > Ema: |#0101Adv07_Ema009|; お絵描きって、何を描いてるのかな。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Noah003",
+    "description": "; > Noah: |#0101Adv07_Noah003|; んー……ちょっと待ってね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative013",
+    "description": "; ノアは立ち上がり、<br>エマに地面が見えるように、少し横に移動する。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema010",
+    "description": "; > Ema: |#0101Adv07_Ema010|; えっ……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative014",
+    "description": "; エマは<ruby=\"きょうがく\">驚愕</ruby>の声を上げる。<br>地面に描かれた絵が――動いていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative015",
+    "description": "; カラースプレーで描かれた何かは、<br>ぐねぐねと動き、形を<ruby=\"な\">成</ruby>していく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative016",
+    "description": "; それはあっという間に、蛇になっていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative017",
+    "description": "; カラフルに<ruby=\"いろど\">彩</ruby>られた蛇は地面を<ruby=\"は\">這</ruby>うように動き、<br>リアルであまりに気味が悪い。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema011",
+    "description": "; > Ema: |#0101Adv07_Ema011|; な、な、何で！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative018",
+    "description": "; ノアは首を<ruby=\"かし\">傾</ruby>げ、困ったように<ruby=\"ほほえ\">微笑</ruby>む。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Noah004",
+    "description": "; > Noah: |#0101Adv07_Noah004|; ええとね、のあの絵、勝手に動いちゃうんだ。<br>絵だけじゃなくて、液体はね、全部勝手に動くの。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Noah005",
+    "description": "; > Noah: |#0101Adv07_Noah005|; 蛇なんて描くつもりなかったのにな。<br>やり直さなきゃ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema012",
+    "description": "; > Ema: |#0101Adv07_Ema012|; （勝手に動くって……<br>　それって、魔法、だよね？）",
+    "translation": ""
+  },
+  {
+    "id": "~2ceda2f7",
+    "description": "; > @toast \"|#~2ceda2f7|\"; 魔女図鑑 更新…",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative019",
+    "description": "; 再び背を向け地面にぺたりと座ったノアを、<br>エマはしばし<ruby=\"ぼうぜん\">呆然</ruby>と見つめていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema013",
+    "description": "; > Ema: |#0101Adv07_Ema013|; （さっき、メルルちゃんの手が光って、<br>　ボクの血を止めてくれたのと同じだ）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema014",
+    "description": "; > Ema: |#0101Adv07_Ema014|; （魔法は本当に、存在する……？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative020",
+    "description": "; 不思議な現象を目の当たりにしても、<br>どうしても信じがたいのか、エマは首を振る。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema015",
+    "description": "; > Ema: |#0101Adv07_Ema015|; （今は考える余裕がないや……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema016",
+    "description": "; > Ema: |#0101Adv07_Ema016|; ……じゃ、じゃあボクは行くね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative021",
+    "description": "; ノアの背に声をかけてから、<br>１階へと続く階段へと向かいはじめたところで――",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Alisa001",
+    "description": "; > Alisa: |#0101Adv07_Alisa001|; 離せ！ クソッ！ 離せよバケモンがよぉ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative022",
+    "description": "; 階下へと降りてきた看守と、<br>脇に抱えられているアリサを目撃する。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema017",
+    "description": "; > Ema: |#0101Adv07_Ema017|; （あの子は、確か紫藤アリサちゃん！？）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Alisa002",
+    "description": "; > Alisa: |#0101Adv07_Alisa002|; ふざけんな！ なんでウチが！",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative023",
+    "description": "; 口では抵抗しているものの、<br>アリサは抱えられたままになって暴れたりはしていない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema018",
+    "description": "; > Ema: |#0101Adv07_Ema018|; （抵抗したら……殺されるかも）",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative024",
+    "description": "; エマは――",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Choice001",
+    "description": "; > @choice |#0101Adv07_Choice001| button:ChoiceButtons/Adv/Bad; 看守とアリサの後を追った",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Choice002",
+    "description": "; > @choice |#0101Adv07_Choice002|; その場から動かない",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative025",
+    "description": "; その場から動かない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative026",
+    "description": "; つい数時間前に見たおぞましい光景が<ruby=\"のうり\">脳裏</ruby>を<ruby=\"よぎ\">過</ruby>ったのか、<br>エマは立ち尽くし、震えている。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Narrative027",
+    "description": "; 看守はアリサを抱えて、<br>通路の向こうへと消えていった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Adv07_Ema019",
+    "description": "; > Ema: |#0101Adv07_Ema019|; （アリサちゃんを連れて、一体どこへ……？）",
+    "translation": ""
+  }
+]

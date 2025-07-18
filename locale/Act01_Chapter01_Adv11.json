@@ -1,0 +1,22 @@
+[
+  {
+    "id": "~78ea3f2e",
+    "description": "; > @choice |#~78ea3f2e| if:!chosen_1_1_7_1; 娯楽室",
+    "translation": ""
+  },
+  {
+    "id": "~9542c06d",
+    "description": "; > @choice |#~9542c06d| if:!chosen_1_1_7_2; 図書室",
+    "translation": ""
+  },
+  {
+    "id": "~f85b0e3a",
+    "description": "; > @choice |#~f85b0e3a| if:!chosen_1_1_7_3; 医務室",
+    "translation": ""
+  },
+  {
+    "id": "~ef82717c",
+    "description": "; > @choice |#~ef82717c| if:!chosen_1_1_7_4; 懲罰房前",
+    "translation": ""
+  }
+]

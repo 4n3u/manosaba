@@ -1,0 +1,367 @@
+[
+  {
+    "id": "0101Bad04_Ema001",
+    "description": "; > Ema: |#0101Bad04_Ema001|; さっき見たゲストハウスの方に逃げよう！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry001",
+    "description": "; > Sherry: |#0101Bad04_Sherry001|; なるほど！ あそこなら建物の中に隠れて、<br>やり過ごせるかもしれませんね！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative001",
+    "description": "; エマたちの考えは甘かった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative002",
+    "description": "; 逃げた先にも、看守が待ち構えていたのだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna001",
+    "description": "; > Hanna: |#0101Bad04_Hanna001|; そんなっ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative003",
+    "description": "; ３人はあっさりと看守に捕まってしまった。<br>そして――",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative004",
+    "description": "; ハンナだけが、懲罰房行きになった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema002",
+    "description": "; > Ema: |#0101Bad04_Ema002|; なんで！？ どうしてハンナちゃんだけが……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry002",
+    "description": "; > Sherry: |#0101Bad04_Sherry002|; そうですよ！<br>壁を壊そうとしたのは私なのに……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema003",
+    "description": "; > Ema: |#0101Bad04_Ema003|; （磔刑台とか拷問器具みたいなの、あったよね……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative005",
+    "description": "; エマはアリサが捕まっていたときの様子を<br>思い出して、身を震わせた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema004",
+    "description": "; > Ema: |#0101Bad04_Ema004|; やっぱり何か、されるのかな……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative006",
+    "description": "; 扉には、<ruby=\"のぞ\">覗</ruby>き窓がある。<br>そこから室内の様子を確かめることはできた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema005",
+    "description": "; > Ema: |#0101Bad04_Ema005|; （どうしよう……見るのが怖い。<br>　もし、ハンナちゃんが酷い目にあっていたら……）",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry003",
+    "description": "; > Sherry: |#0101Bad04_Sherry003|; …………。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative007",
+    "description": "; エマもシェリーも決心がつかないのか、<br>ただ扉の前に<ruby=\"たたず\">佇</ruby>むことしかできないでいる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema006",
+    "description": "; > Ema: |#0101Bad04_Ema006|; ひっ……！ な、何……！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative008",
+    "description": "; 扉の向こうから聞こえた不穏な音に、<br>エマは思わずシェリーに身を寄せる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna002",
+    "description": "; > ボイス加工：ドア越しの声; > Hanna: |#0101Bad04_Hanna002|\n; あうっ！ な、何するんですの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative009",
+    "description": "; 何かを<ruby=\"たた\">叩</ruby>きつけるような音と<br>ハンナの声が、中から聞こえてくる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna003",
+    "description": "; > ボイス加工：ドア越しの声; > Hanna: |#0101Bad04_Hanna003|\n; 痛いっ！ やめてくださいまし！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema007",
+    "description": "; > Ema: |#0101Bad04_Ema007|; ハンナちゃん、大丈夫！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative010",
+    "description": "; エマとシェリーは、<ruby=\"のぞ\">覗</ruby>き窓から中の様子を<ruby=\"うかが\">窺</ruby>う。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema008",
+    "description": "; > Ema: |#0101Bad04_Ema008|; ……！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna004",
+    "description": "; > Hanna: |#0101Bad04_Hanna004|; ひうっ！ もう<ruby=\"たた\">叩</ruby>かないでくださいまし！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative011",
+    "description": "; 室内で繰り広げられている光景は、<br>エマが想像していたであろうものとは少し違っていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema009",
+    "description": "; > Ema: |#0101Bad04_Ema009|; 看守が持ってるの……あれって、定規？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative012",
+    "description": "; ハンナは<ruby=\"たっけいだい\">磔刑台</ruby>に拘束されている。<br>だが恐ろしい拷問器具ではなく、定規で<ruby=\"たた\">叩</ruby>かれていた。<br>まるで教師か親が子供を<ruby=\"せっかん\">折檻</ruby>しているかのように。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative013",
+    "description": "; 看守が定規を振り上げて、ハンナの頬を打つ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry004",
+    "description": "; > Sherry: |#0101Bad04_Sherry004|; エマさん、ハンナさんを助けましょう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema010",
+    "description": "; > Ema: |#0101Bad04_Ema010|; で、でも、助けるって一体どうやって……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry005",
+    "description": "; > Sherry: |#0101Bad04_Sherry005|; こうやってです！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema011",
+    "description": "; > Ema: |#0101Bad04_Ema011|; え、ちょっとシェリーちゃん！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative014",
+    "description": "; シェリーは拳を握り、<br>懲罰房の扉を勢いよく殴りつけた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna005",
+    "description": "; > Hanna: |#0101Bad04_Hanna005|; な、なんなんですの！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry006",
+    "description": "; > Sherry: |#0101Bad04_Sherry006|; ハンナさん、助けに来ました！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative015",
+    "description": "; 扉を破壊して室内に現れたシェリーに、<br>ハンナは<ruby=\"あぜん\">唖然</ruby>とする。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema012",
+    "description": "; > Ema: |#0101Bad04_Ema012|; ちょ、ちょっと待ってシェリーちゃん！<br>ダメだよ、看守に抵抗したら……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative016",
+    "description": "; ――ヒロのように、殺されてしまう。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna006",
+    "description": "; > Hanna: |#0101Bad04_Hanna006|; そうですわ！ わたくしなら大丈夫ですから、<br>バカな真似はおよしなさい！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry007",
+    "description": "; > Sherry: |#0101Bad04_Sherry007|; いえ、やってみないとわからないじゃないですか。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative017",
+    "description": "; シェリーは一歩前に踏み出して、<br>看守に近付いていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry008",
+    "description": "; > Sherry: |#0101Bad04_Sherry008|; 本気の本気でやれば、<br>案外ぶっ殺せるかもしれませんよ？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry009",
+    "description": "; > Sherry: |#0101Bad04_Sherry009|; ここには武器もたくさんありますし！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative018",
+    "description": "; シェリーは近くにあった金属の棒を手に取る。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative019",
+    "description": "; 抵抗の意思を察知したのか、<br>看守がシェリーに対して鎌を振り下ろした。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry010",
+    "description": "; > Sherry: |#0101Bad04_Sherry010|; ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative020",
+    "description": "; シェリーは鎌による一撃を<ruby=\"か\">搔</ruby>い潜り、<br>看守に鉄の棒を<ruby=\"たた\">叩</ruby>きつけた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry011",
+    "description": "; > Sherry: |#0101Bad04_Sherry011|; うああああああっ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative021",
+    "description": "; のけぞるような体勢になった看守に、<br>シェリーは容赦なく追い打ちをかけていく。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry012",
+    "description": "; > Sherry: |#0101Bad04_Sherry012|; エマさん！ 今のうちに、<br>ハンナさんを下ろして逃げてください！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema013",
+    "description": "; > Ema: |#0101Bad04_Ema013|; え、えええっ！？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry013",
+    "description": "; > Sherry: |#0101Bad04_Sherry013|; 早くしてくださいー！<br>いつまでもつかわかりませんので！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema014",
+    "description": "; > Ema: |#0101Bad04_Ema014|; わ、わかった……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative022",
+    "description": "; エマが<ruby=\"たっけいだい\">磔刑台</ruby>に駆け寄り、<br>ハンナの拘束を解きにかかる。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative023",
+    "description": "; どれだけシェリーの怪力で殴られても、<br>看守が死ぬ気配はない。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry014",
+    "description": "; > Sherry: |#0101Bad04_Sherry014|; わわっと！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative024",
+    "description": "; 死なないどころか、<br>恐るべきスピードで鎌による反撃を繰り出してきた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative025",
+    "description": "; <ruby=\"とっさ\">咄嗟</ruby>に受け止めた鉄の棒が、<br>真っ二つに切断される。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry015",
+    "description": "; > Sherry: |#0101Bad04_Sherry015|; それなら、これで……！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative026",
+    "description": "; 武器は、まだまだある。<br>シェリーは処刑用と思しき剣を<ruby=\"つか\">掴</ruby>んだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry016",
+    "description": "; > Sherry: |#0101Bad04_Sherry016|; やああああっ！",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative027",
+    "description": "; 剣を手に、体ごと看守に突っ込む。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Ema015",
+    "description": "; > Ema: |#0101Bad04_Ema015|; ぐっ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Hanna007",
+    "description": "; > Hanna: |#0101Bad04_Hanna007|; あっ……。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry017",
+    "description": "; > Sherry: |#0101Bad04_Sherry017|; ……あれ？",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative028",
+    "description": "; シェリーの剣が貫いたのは、看守ではなかった。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative029",
+    "description": "; エマと、ハンナだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative030",
+    "description": "; 看守の背後で、<br>エマは<ruby=\"たっけいだい\">磔刑台</ruby>からハンナを下ろそうとしていた。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative031",
+    "description": "; シェリーの突進を看守が避けたことで、<br>２人を刺し貫いてしまったのだ。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry018",
+    "description": "; > Sherry: |#0101Bad04_Sherry018|; ……あちゃー、失敗ですね。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Sherry019",
+    "description": "; > Sherry: |#0101Bad04_Sherry019|; 助けられると思ったんです。<br>でも……やっぱり壊しちゃいましたね。<br>エマさん、ハンナさん、ごめんなさい。",
+    "translation": ""
+  },
+  {
+    "id": "0101Bad04_Narrative032",
+    "description": "; <ruby=\"ぼうぜん\">呆然</ruby>と口にするシェリーの背後で、<br>看守が鎌を掲げて――",
+    "translation": ""
+  }
+]
